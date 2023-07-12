@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/KyleGospo/gnome-vrr/issues/6) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
+1. 🎉 Merged PR [#34](https://github.com/ublue-os/bazzite/pull/34) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 2. 🗣 Commented on [#6](https://github.com/KyleGospo/gnome-vrr/issues/6) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
-3. 🎉 Merged PR [#33](https://github.com/ublue-os/bazzite/pull/33) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#78](https://github.com/ublue-os/nvidia/issues/78) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
-5. 💪 Opened PR [#32](https://github.com/ublue-os/bazzite/pull/32) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#6](https://github.com/KyleGospo/gnome-vrr/issues/6) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
+4. 🎉 Merged PR [#33](https://github.com/ublue-os/bazzite/pull/33) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#78](https://github.com/ublue-os/nvidia/issues/78) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
 <!--END_SECTION:activity-->
