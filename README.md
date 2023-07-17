@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/ublue-os/bazzite/pull/43) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#31](https://github.com/ublue-os/akmods/pull/31) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-3. 🎉 Merged PR [#40](https://github.com/ublue-os/bazzite/pull/40) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#38](https://github.com/ublue-os/bazzite/pull/38) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. ❌ Closed PR [#1](https://github.com/KyleGospo/MangoHud/pull/1) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
+1. ❌ Closed PR [#43](https://github.com/ublue-os/bazzite/pull/43) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#42](https://github.com/ublue-os/bazzite/pull/42) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#43](https://github.com/ublue-os/bazzite/pull/43) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 💪 Opened PR [#31](https://github.com/ublue-os/akmods/pull/31) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+5. 🎉 Merged PR [#40](https://github.com/ublue-os/bazzite/pull/40) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
