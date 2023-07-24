@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/ublue-os/akmods/pull/45) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-2. 💪 Opened PR [#45](https://github.com/ublue-os/akmods/pull/45) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-3. ❌ Closed PR [#44](https://github.com/ublue-os/akmods/pull/44) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-4. 🎉 Merged PR [#3](https://github.com/KyleGospo/gasket-dkms/pull/3) in [KyleGospo/gasket-dkms](https://github.com/KyleGospo/gasket-dkms)
-5. 💪 Opened PR [#3](https://github.com/KyleGospo/gasket-dkms/pull/3) in [KyleGospo/gasket-dkms](https://github.com/KyleGospo/gasket-dkms)
+1. 🔒 Closed issue [#58](https://github.com/ublue-os/bazzite/issues/58) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#58](https://github.com/ublue-os/bazzite/issues/58#issuecomment-1648129187) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🔒 Closed issue [#56](https://github.com/ublue-os/bazzite/issues/56) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🗣 Commented on [#56](https://github.com/ublue-os/bazzite/issues/56#issuecomment-1648128014) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🔒 Closed issue [#57](https://github.com/ublue-os/bazzite/issues/57) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
