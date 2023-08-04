@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/ublue-os/bazzite/pull/99) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#98](https://github.com/ublue-os/bazzite/pull/98) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#97](https://github.com/ublue-os/bazzite/pull/97) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. ❌ Closed PR [#96](https://github.com/ublue-os/bazzite/pull/96) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#96](https://github.com/ublue-os/bazzite/pull/96#issuecomment-1664713353) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🔒 Closed issue [#7](https://github.com/KyleGospo/gnome-vrr/issues/7) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
+2. 🗣 Commented on [#7](https://github.com/KyleGospo/gnome-vrr/issues/7#issuecomment-1666217337) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
+3. 💪 Opened PR [#369](https://github.com/ublue-os/bluefin/pull/369) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 🎉 Merged PR [#99](https://github.com/ublue-os/bazzite/pull/99) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#98](https://github.com/ublue-os/bazzite/pull/98) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
