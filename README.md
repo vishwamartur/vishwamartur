@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/KyleGospo/gamescope-session/pull/37) in [KyleGospo/gamescope-session](https://github.com/KyleGospo/gamescope-session)
-2. 🎉 Merged PR [#1](https://github.com/ublue-os/distrobox/pull/1) in [ublue-os/distrobox](https://github.com/ublue-os/distrobox)
-3. 🗣 Commented on [#384](https://github.com/ublue-os/bluefin/issues/384#issuecomment-1668645745) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🎉 Merged PR [#114](https://github.com/ublue-os/bazzite/pull/114) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#115](https://github.com/ublue-os/bazzite/pull/115) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. ❌ Closed PR [#119](https://github.com/ublue-os/bazzite/pull/119) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 💪 Opened PR [#120](https://github.com/ublue-os/bazzite/pull/120) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#119](https://github.com/ublue-os/bazzite/pull/119) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🎉 Merged PR [#37](https://github.com/KyleGospo/gamescope-session/pull/37) in [KyleGospo/gamescope-session](https://github.com/KyleGospo/gamescope-session)
+5. 🎉 Merged PR [#1](https://github.com/ublue-os/distrobox/pull/1) in [ublue-os/distrobox](https://github.com/ublue-os/distrobox)
 <!--END_SECTION:activity-->
