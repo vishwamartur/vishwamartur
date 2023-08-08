@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/ublue-os/bazzite/pull/120) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. ❌ Closed PR [#119](https://github.com/ublue-os/bazzite/pull/119) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 💪 Opened PR [#120](https://github.com/ublue-os/bazzite/pull/120) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 💪 Opened PR [#119](https://github.com/ublue-os/bazzite/pull/119) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#37](https://github.com/KyleGospo/gamescope-session/pull/37) in [KyleGospo/gamescope-session](https://github.com/KyleGospo/gamescope-session)
+1. 🎉 Merged PR [#122](https://github.com/ublue-os/bazzite/pull/122) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#120](https://github.com/ublue-os/bazzite/pull/120) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. ❌ Closed PR [#119](https://github.com/ublue-os/bazzite/pull/119) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 💪 Opened PR [#120](https://github.com/ublue-os/bazzite/pull/120) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 💪 Opened PR [#119](https://github.com/ublue-os/bazzite/pull/119) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
