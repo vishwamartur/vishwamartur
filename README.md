@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#419](https://github.com/ublue-os/bluefin/pull/419) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 🎉 Merged PR [#154](https://github.com/ublue-os/bazzite/pull/154) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#13](https://github.com/KyleGospo/system76-scheduler/pull/13) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-4. 🔒 Closed issue [#153](https://github.com/ublue-os/bazzite/issues/153) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#153](https://github.com/ublue-os/bazzite/issues/153#issuecomment-1680820352) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#2](https://github.com/KyleGospo/Steam-Deck-Software-Undervolt/pull/2) in [KyleGospo/Steam-Deck-Software-Undervolt](https://github.com/KyleGospo/Steam-Deck-Software-Undervolt)
+2. 🔒 Closed issue [#134](https://github.com/ublue-os/bazzite/issues/134) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#134](https://github.com/ublue-os/bazzite/issues/134#issuecomment-1681248343) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🔒 Closed issue [#144](https://github.com/ublue-os/bazzite/issues/144) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#144](https://github.com/ublue-os/bazzite/issues/144#issuecomment-1681247132) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
