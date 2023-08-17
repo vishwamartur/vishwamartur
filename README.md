@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#303](https://github.com/ublue-os/main/pull/303) in [ublue-os/main](https://github.com/ublue-os/main)
-2. 🎉 Merged PR [#157](https://github.com/ublue-os/bazzite/pull/157) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#2](https://github.com/KyleGospo/Steam-Deck-Software-Undervolt/pull/2) in [KyleGospo/Steam-Deck-Software-Undervolt](https://github.com/KyleGospo/Steam-Deck-Software-Undervolt)
-4. 🔒 Closed issue [#134](https://github.com/ublue-os/bazzite/issues/134) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#134](https://github.com/ublue-os/bazzite/issues/134#issuecomment-1681248343) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 💪 Opened PR [#355](https://github.com/ublue-os/website/pull/355) in [ublue-os/website](https://github.com/ublue-os/website)
+2. 🎉 Merged PR [#4](https://github.com/ublue-os/distrobox/pull/4) in [ublue-os/distrobox](https://github.com/ublue-os/distrobox)
+3. 💪 Opened PR [#353](https://github.com/ublue-os/website/pull/353) in [ublue-os/website](https://github.com/ublue-os/website)
+4. 🎉 Merged PR [#303](https://github.com/ublue-os/main/pull/303) in [ublue-os/main](https://github.com/ublue-os/main)
+5. 🎉 Merged PR [#157](https://github.com/ublue-os/bazzite/pull/157) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
