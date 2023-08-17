@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/ublue-os/isogenerator/pull/78) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-2. 🎉 Merged PR [#362](https://github.com/ublue-os/website/pull/362) in [ublue-os/website](https://github.com/ublue-os/website)
-3. 🎉 Merged PR [#16](https://github.com/KyleGospo/MangoHud/pull/16) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
-4. 💪 Opened PR [#362](https://github.com/ublue-os/website/pull/362) in [ublue-os/website](https://github.com/ublue-os/website)
-5. 🗣 Commented on [#155](https://github.com/ublue-os/bazzite/pull/155#issuecomment-1681560489) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. ❌ Closed PR [#18](https://github.com/KyleGospo/system76-scheduler/pull/18) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+2. 🗣 Commented on [#18](https://github.com/KyleGospo/system76-scheduler/pull/18#issuecomment-1683028742) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+3. 🎉 Merged PR [#78](https://github.com/ublue-os/isogenerator/pull/78) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
+4. 🎉 Merged PR [#362](https://github.com/ublue-os/website/pull/362) in [ublue-os/website](https://github.com/ublue-os/website)
+5. 🎉 Merged PR [#16](https://github.com/KyleGospo/MangoHud/pull/16) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
 <!--END_SECTION:activity-->
