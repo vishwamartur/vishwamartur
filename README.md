@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/ublue-os/bazzite/pull/155#issuecomment-1681560489) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. ❌ Closed PR [#155](https://github.com/ublue-os/bazzite/pull/155) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#361](https://github.com/ublue-os/website/pull/361) in [ublue-os/website](https://github.com/ublue-os/website)
-4. ❌ Closed PR [#16](https://github.com/KyleGospo/system76-scheduler/pull/16) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-5. 🗣 Commented on [#16](https://github.com/KyleGospo/system76-scheduler/pull/16#issuecomment-1681550184) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+1. 💪 Opened PR [#362](https://github.com/ublue-os/website/pull/362) in [ublue-os/website](https://github.com/ublue-os/website)
+2. 🗣 Commented on [#155](https://github.com/ublue-os/bazzite/pull/155#issuecomment-1681560489) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. ❌ Closed PR [#155](https://github.com/ublue-os/bazzite/pull/155) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🎉 Merged PR [#361](https://github.com/ublue-os/website/pull/361) in [ublue-os/website](https://github.com/ublue-os/website)
+5. ❌ Closed PR [#16](https://github.com/KyleGospo/system76-scheduler/pull/16) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
 <!--END_SECTION:activity-->
