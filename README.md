@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/KyleGospo/system76-scheduler/pull/16) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-2. 🗣 Commented on [#16](https://github.com/KyleGospo/system76-scheduler/pull/16#issuecomment-1681550184) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-3. 🗣 Commented on [#17](https://github.com/KyleGospo/system76-scheduler/pull/17#issuecomment-1681550100) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-4. ❌ Closed PR [#17](https://github.com/KyleGospo/system76-scheduler/pull/17) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-5. 🎉 Merged PR [#158](https://github.com/ublue-os/bazzite/pull/158) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#155](https://github.com/ublue-os/bazzite/pull/155#issuecomment-1681560489) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. ❌ Closed PR [#155](https://github.com/ublue-os/bazzite/pull/155) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#361](https://github.com/ublue-os/website/pull/361) in [ublue-os/website](https://github.com/ublue-os/website)
+4. ❌ Closed PR [#16](https://github.com/KyleGospo/system76-scheduler/pull/16) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+5. 🗣 Commented on [#16](https://github.com/KyleGospo/system76-scheduler/pull/16#issuecomment-1681550184) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
 <!--END_SECTION:activity-->
