@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#376](https://github.com/ublue-os/website/pull/376) in [ublue-os/website](https://github.com/ublue-os/website)
-2. 🎉 Merged PR [#161](https://github.com/ublue-os/bazzite/pull/161) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 💪 Opened PR [#161](https://github.com/ublue-os/bazzite/pull/161) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#375](https://github.com/ublue-os/website/pull/375) in [ublue-os/website](https://github.com/ublue-os/website)
-5. 🎉 Merged PR [#374](https://github.com/ublue-os/website/pull/374) in [ublue-os/website](https://github.com/ublue-os/website)
+1. 🎉 Merged PR [#163](https://github.com/ublue-os/bazzite/pull/163) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 💪 Opened PR [#376](https://github.com/ublue-os/website/pull/376) in [ublue-os/website](https://github.com/ublue-os/website)
+3. 🎉 Merged PR [#161](https://github.com/ublue-os/bazzite/pull/161) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 💪 Opened PR [#161](https://github.com/ublue-os/bazzite/pull/161) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#375](https://github.com/ublue-os/website/pull/375) in [ublue-os/website](https://github.com/ublue-os/website)
 <!--END_SECTION:activity-->
