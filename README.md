@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#314](https://github.com/ublue-os/main/pull/314) in [ublue-os/main](https://github.com/ublue-os/main)
-2. 🗣 Commented on [#314](https://github.com/ublue-os/main/pull/314#issuecomment-1694730005) in [ublue-os/main](https://github.com/ublue-os/main)
-3. 🗣 Commented on [#314](https://github.com/ublue-os/main/pull/314#issuecomment-1694727946) in [ublue-os/main](https://github.com/ublue-os/main)
-4. 🗣 Commented on [#314](https://github.com/ublue-os/main/pull/314#issuecomment-1694727422) in [ublue-os/main](https://github.com/ublue-os/main)
-5. 💪 Opened PR [#314](https://github.com/ublue-os/main/pull/314) in [ublue-os/main](https://github.com/ublue-os/main)
+1. 🗣 Commented on [#178](https://github.com/ublue-os/bazzite/issues/178#issuecomment-1694807640) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#314](https://github.com/ublue-os/main/pull/314) in [ublue-os/main](https://github.com/ublue-os/main)
+3. 🗣 Commented on [#314](https://github.com/ublue-os/main/pull/314#issuecomment-1694730005) in [ublue-os/main](https://github.com/ublue-os/main)
+4. 🗣 Commented on [#314](https://github.com/ublue-os/main/pull/314#issuecomment-1694727946) in [ublue-os/main](https://github.com/ublue-os/main)
+5. 🗣 Commented on [#314](https://github.com/ublue-os/main/pull/314#issuecomment-1694727422) in [ublue-os/main](https://github.com/ublue-os/main)
 <!--END_SECTION:activity-->
