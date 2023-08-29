@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#169](https://github.com/ublue-os/bazzite/issues/169) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🔒 Closed issue [#183](https://github.com/ublue-os/bazzite/issues/183) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🔒 Closed issue [#210](https://github.com/ublue-os/bazzite/issues/210) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#215](https://github.com/ublue-os/bazzite/pull/215) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#210](https://github.com/ublue-os/bazzite/issues/210#issuecomment-1696952515) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#153](https://github.com/ublue-os/bazzite/issues/153#issuecomment-1697770528) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#214](https://github.com/ublue-os/bazzite/issues/214#issuecomment-1697753100) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🔒 Closed issue [#214](https://github.com/ublue-os/bazzite/issues/214) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🔒 Closed issue [#169](https://github.com/ublue-os/bazzite/issues/169) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🔒 Closed issue [#183](https://github.com/ublue-os/bazzite/issues/183) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
