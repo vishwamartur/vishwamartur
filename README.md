@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Supreeeme/extest/issues/5#issuecomment-1702272763) in [Supreeeme/extest](https://github.com/Supreeeme/extest)
-2. 🗣 Commented on [#5](https://github.com/Supreeeme/extest/issues/5#issuecomment-1702094185) in [Supreeeme/extest](https://github.com/Supreeeme/extest)
-3. 🎉 Merged PR [#243](https://github.com/ublue-os/bazzite/pull/243) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#243](https://github.com/ublue-os/bazzite/pull/243#issuecomment-1701935088) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#243](https://github.com/ublue-os/bazzite/pull/243#issuecomment-1701915116) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#247](https://github.com/ublue-os/bazzite/pull/247) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#5](https://github.com/Supreeeme/extest/issues/5#issuecomment-1702272763) in [Supreeeme/extest](https://github.com/Supreeeme/extest)
+3. 🗣 Commented on [#5](https://github.com/Supreeeme/extest/issues/5#issuecomment-1702094185) in [Supreeeme/extest](https://github.com/Supreeeme/extest)
+4. 🎉 Merged PR [#243](https://github.com/ublue-os/bazzite/pull/243) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#243](https://github.com/ublue-os/bazzite/pull/243#issuecomment-1701935088) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
