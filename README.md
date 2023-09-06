@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/ublue-os/bazzite/issues/266#issuecomment-1707925366) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#265](https://github.com/ublue-os/bazzite/pull/265) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 💪 Opened PR [#265](https://github.com/ublue-os/bazzite/pull/265) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🚀 Published release [0.12](https://github.com/KyleGospo/duperemove/releases/tag/0.12) in [KyleGospo/duperemove](https://github.com/KyleGospo/duperemove)
-5. 🚀 Published release [0.12](https://github.com/KyleGospo/LatencyFleX/releases/tag/0.12) in [KyleGospo/LatencyFleX](https://github.com/KyleGospo/LatencyFleX)
+1. 🗣 Commented on [#266](https://github.com/ublue-os/bazzite/issues/266#issuecomment-1707984386) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#266](https://github.com/ublue-os/bazzite/issues/266#issuecomment-1707925366) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#265](https://github.com/ublue-os/bazzite/pull/265) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 💪 Opened PR [#265](https://github.com/ublue-os/bazzite/pull/265) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🚀 Published release [0.12](https://github.com/KyleGospo/duperemove/releases/tag/0.12) in [KyleGospo/duperemove](https://github.com/KyleGospo/duperemove)
 <!--END_SECTION:activity-->
