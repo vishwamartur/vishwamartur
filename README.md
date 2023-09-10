@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com/ublue-os/bazzite/issues/284#issuecomment-1712914019) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🔒 Closed issue [#284](https://github.com/ublue-os/bazzite/issues/284) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#217](https://github.com/ublue-os/bazzite/issues/217#issuecomment-1712845797) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🔒 Closed issue [#221](https://github.com/ublue-os/bazzite/issues/221) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#282](https://github.com/ublue-os/bazzite/issues/282#issuecomment-1712845124) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#5](https://github.com/KyleGospo/gnome-ext-hanabi/pull/5) in [KyleGospo/gnome-ext-hanabi](https://github.com/KyleGospo/gnome-ext-hanabi)
+2. 🗣 Commented on [#284](https://github.com/ublue-os/bazzite/issues/284#issuecomment-1712914019) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🔒 Closed issue [#284](https://github.com/ublue-os/bazzite/issues/284) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🗣 Commented on [#217](https://github.com/ublue-os/bazzite/issues/217#issuecomment-1712845797) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🔒 Closed issue [#221](https://github.com/ublue-os/bazzite/issues/221) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
