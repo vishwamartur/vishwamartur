@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#323](https://github.com/ublue-os/bazzite/pull/323) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#329](https://github.com/ublue-os/bazzite/pull/329) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 💪 Opened PR [#322](https://github.com/ublue-os/bazzite/pull/322) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#2](https://github.com/KyleGospo/tofumenu/pull/2) in [KyleGospo/tofumenu](https://github.com/KyleGospo/tofumenu)
-5. 🎉 Merged PR [#319](https://github.com/ublue-os/bazzite/pull/319) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 💪 Opened PR [#330](https://github.com/ublue-os/bazzite/pull/330) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#323](https://github.com/ublue-os/bazzite/pull/323) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#329](https://github.com/ublue-os/bazzite/pull/329) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 💪 Opened PR [#322](https://github.com/ublue-os/bazzite/pull/322) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#2](https://github.com/KyleGospo/tofumenu/pull/2) in [KyleGospo/tofumenu](https://github.com/KyleGospo/tofumenu)
 <!--END_SECTION:activity-->
