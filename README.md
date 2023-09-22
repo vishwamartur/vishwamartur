@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#507](https://github.com/ublue-os/bluefin/issues/507#issuecomment-1730796201) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 🎉 Merged PR [#350](https://github.com/ublue-os/main/pull/350) in [ublue-os/main](https://github.com/ublue-os/main)
-3. 💪 Opened PR [#47](https://github.com/ublue-os/bling/pull/47) in [ublue-os/bling](https://github.com/ublue-os/bling)
-4. 💪 Opened PR [#10](https://github.com/ublue-os/kera/pull/10) in [ublue-os/kera](https://github.com/ublue-os/kera)
-5. 💪 Opened PR [#96](https://github.com/ublue-os/beyond/pull/96) in [ublue-os/beyond](https://github.com/ublue-os/beyond)
+1. ❌ Closed PR [#339](https://github.com/ublue-os/bazzite/pull/339) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#339](https://github.com/ublue-os/bazzite/pull/339#issuecomment-1730840257) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#507](https://github.com/ublue-os/bluefin/issues/507#issuecomment-1730796201) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 🎉 Merged PR [#350](https://github.com/ublue-os/main/pull/350) in [ublue-os/main](https://github.com/ublue-os/main)
+5. 💪 Opened PR [#47](https://github.com/ublue-os/bling/pull/47) in [ublue-os/bling](https://github.com/ublue-os/bling)
 <!--END_SECTION:activity-->
