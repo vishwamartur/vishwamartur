@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/KyleGospo/MangoHud/pull/28) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
-2. 💪 Opened PR [#515](https://github.com/ublue-os/bluefin/pull/515) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 🗣 Commented on [#354](https://github.com/ublue-os/bazzite/issues/354#issuecomment-1732359886) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#349](https://github.com/ublue-os/bazzite/issues/349#issuecomment-1732266151) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#349](https://github.com/ublue-os/bazzite/issues/349#issuecomment-1732232450) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#352](https://github.com/ublue-os/bazzite/pull/352) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🔒 Closed issue [#354](https://github.com/ublue-os/bazzite/issues/354) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#353](https://github.com/ublue-os/bazzite/issues/353#issuecomment-1732400701) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🎉 Merged PR [#28](https://github.com/KyleGospo/MangoHud/pull/28) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
+5. 💪 Opened PR [#515](https://github.com/ublue-os/bluefin/pull/515) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
