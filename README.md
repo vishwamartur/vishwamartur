@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#357](https://github.com/ublue-os/bazzite/pull/357) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#366](https://github.com/ublue-os/main/pull/366) in [ublue-os/main](https://github.com/ublue-os/main)
-3. 🎉 Merged PR [#356](https://github.com/ublue-os/bazzite/pull/356) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#190](https://github.com/tkashkin/Adwaita-for-Steam/issues/190#issuecomment-1732471664) in [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)
-5. 💪 Opened PR [#208](https://github.com/tkashkin/Adwaita-for-Steam/pull/208) in [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)
+1. 🎉 Merged PR [#33](https://github.com/ublue-os/framework/pull/33) in [ublue-os/framework](https://github.com/ublue-os/framework)
+2. 🗣 Commented on [#33](https://github.com/ublue-os/framework/pull/33#issuecomment-1732601512) in [ublue-os/framework](https://github.com/ublue-os/framework)
+3. 🎉 Merged PR [#357](https://github.com/ublue-os/bazzite/pull/357) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🗣 Commented on [#359](https://github.com/ublue-os/bazzite/issues/359#issuecomment-1732599894) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 💪 Opened PR [#357](https://github.com/ublue-os/bazzite/pull/357) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
