@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/ublue-os/akmods/pull/71) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-2. 🗣 Commented on [#366](https://github.com/ublue-os/bazzite/issues/366#issuecomment-1732773680) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#365](https://github.com/ublue-os/bazzite/issues/365#issuecomment-1732717471) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. ❌ Closed PR [#329](https://github.com/ublue-os/bazzite/pull/329) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#361](https://github.com/ublue-os/bazzite/pull/361) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 💪 Opened PR [#8](https://github.com/ublue-os/asus/pull/8) in [ublue-os/asus](https://github.com/ublue-os/asus)
+2. ❌ Closed PR [#34](https://github.com/ublue-os/framework/pull/34) in [ublue-os/framework](https://github.com/ublue-os/framework)
+3. 💪 Opened PR [#34](https://github.com/ublue-os/framework/pull/34) in [ublue-os/framework](https://github.com/ublue-os/framework)
+4. 🎉 Merged PR [#71](https://github.com/ublue-os/akmods/pull/71) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+5. 🗣 Commented on [#366](https://github.com/ublue-os/bazzite/issues/366#issuecomment-1732773680) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
