@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#367](https://github.com/ublue-os/bazzite/pull/367) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#124](https://github.com/ublue-os/config/pull/124) in [ublue-os/config](https://github.com/ublue-os/config)
-3. 🎉 Merged PR [#1](https://github.com/ublue-os/arch-distrobox/pull/1) in [ublue-os/arch-distrobox](https://github.com/ublue-os/arch-distrobox)
-4. 💪 Opened PR [#1](https://github.com/ublue-os/arch-distrobox/pull/1) in [ublue-os/arch-distrobox](https://github.com/ublue-os/arch-distrobox)
-5. 🎉 Merged PR [#163](https://github.com/ublue-os/startingpoint/pull/163) in [ublue-os/startingpoint](https://github.com/ublue-os/startingpoint)
+1. 🗣 Commented on [#73](https://github.com/ublue-os/akmods/pull/73#issuecomment-1734596320) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+2. 🎉 Merged PR [#367](https://github.com/ublue-os/bazzite/pull/367) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#124](https://github.com/ublue-os/config/pull/124) in [ublue-os/config](https://github.com/ublue-os/config)
+4. 🎉 Merged PR [#1](https://github.com/ublue-os/arch-distrobox/pull/1) in [ublue-os/arch-distrobox](https://github.com/ublue-os/arch-distrobox)
+5. 💪 Opened PR [#1](https://github.com/ublue-os/arch-distrobox/pull/1) in [ublue-os/arch-distrobox](https://github.com/ublue-os/arch-distrobox)
 <!--END_SECTION:activity-->
