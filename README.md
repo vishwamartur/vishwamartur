@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#376](https://github.com/ublue-os/bazzite/pull/376) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#374](https://github.com/ublue-os/bazzite/pull/374) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#373](https://github.com/ublue-os/bazzite/issues/373#issuecomment-1736304347) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#366](https://github.com/ublue-os/bazzite/issues/366#issuecomment-1736301423) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#8](https://github.com/mjakeman/s76-scheduler-plugin/issues/8#issuecomment-1736265155) in [mjakeman/s76-scheduler-plugin](https://github.com/mjakeman/s76-scheduler-plugin)
+1. 🗣 Commented on [#126](https://github.com/ublue-os/config/pull/126#issuecomment-1737839330) in [ublue-os/config](https://github.com/ublue-os/config)
+2. 🗣 Commented on [#126](https://github.com/ublue-os/config/pull/126#issuecomment-1737837410) in [ublue-os/config](https://github.com/ublue-os/config)
+3. 🎉 Merged PR [#376](https://github.com/ublue-os/bazzite/pull/376) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 💪 Opened PR [#376](https://github.com/ublue-os/bazzite/pull/376) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#374](https://github.com/ublue-os/bazzite/pull/374) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
