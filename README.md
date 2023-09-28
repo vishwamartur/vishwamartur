@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#127](https://github.com/ublue-os/config/pull/127) in [ublue-os/config](https://github.com/ublue-os/config)
-2. 🔒 Closed issue [#11](https://github.com/KyleGospo/gnome-vrr/issues/11) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
-3. 🗣 Commented on [#11](https://github.com/KyleGospo/gnome-vrr/issues/11#issuecomment-1739578145) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
-4. ❌ Closed PR [#371](https://github.com/ublue-os/main/pull/371) in [ublue-os/main](https://github.com/ublue-os/main)
-5. 💪 Opened PR [#529](https://github.com/ublue-os/bluefin/pull/529) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🗣 Commented on [#127](https://github.com/ublue-os/config/pull/127#issuecomment-1739635061) in [ublue-os/config](https://github.com/ublue-os/config)
+2. 🗣 Commented on [#380](https://github.com/ublue-os/bazzite/issues/380#issuecomment-1739630722) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#127](https://github.com/ublue-os/config/pull/127) in [ublue-os/config](https://github.com/ublue-os/config)
+4. 🔒 Closed issue [#11](https://github.com/KyleGospo/gnome-vrr/issues/11) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
+5. 🗣 Commented on [#11](https://github.com/KyleGospo/gnome-vrr/issues/11#issuecomment-1739578145) in [KyleGospo/gnome-vrr](https://github.com/KyleGospo/gnome-vrr)
 <!--END_SECTION:activity-->
