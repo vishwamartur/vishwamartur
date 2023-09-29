@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/ublue-os/asus/pull/11) in [ublue-os/asus](https://github.com/ublue-os/asus)
-2. 🎉 Merged PR [#157](https://github.com/ublue-os/nvidia/pull/157) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
-3. 🎉 Merged PR [#38](https://github.com/ublue-os/framework/pull/38) in [ublue-os/framework](https://github.com/ublue-os/framework)
-4. 🔒 Closed issue [#380](https://github.com/ublue-os/bazzite/issues/380) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#390](https://github.com/ublue-os/bazzite/pull/390) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#376](https://github.com/ublue-os/main/pull/376) in [ublue-os/main](https://github.com/ublue-os/main)
+2. 🎉 Merged PR [#11](https://github.com/ublue-os/asus/pull/11) in [ublue-os/asus](https://github.com/ublue-os/asus)
+3. 🎉 Merged PR [#157](https://github.com/ublue-os/nvidia/pull/157) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+4. 🎉 Merged PR [#38](https://github.com/ublue-os/framework/pull/38) in [ublue-os/framework](https://github.com/ublue-os/framework)
+5. 🔒 Closed issue [#380](https://github.com/ublue-os/bazzite/issues/380) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
