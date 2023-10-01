@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Add CodeQL Cleanup](https://github.com/ublue-os/remove-unwanted-software/releases/tag/v6) in [ublue-os/remove-unwanted-software](https://github.com/ublue-os/remove-unwanted-software)
-2. 🎉 Merged PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 💪 Opened PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 💪 Opened PR [#548](https://github.com/ublue-os/bluefin/pull/548) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 🗣 Commented on [#499](https://github.com/ublue-os/bluefin/issues/499#issuecomment-1741967696) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🔒 Closed issue [#321](https://github.com/ublue-os/bazzite/issues/321) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#947](https://github.com/89luca89/distrobox/issues/947#issuecomment-1742200593) in [89luca89/distrobox](https://github.com/89luca89/distrobox)
+3. 🚀 Published release [Add CodeQL Cleanup](https://github.com/ublue-os/remove-unwanted-software/releases/tag/v6) in [ublue-os/remove-unwanted-software](https://github.com/ublue-os/remove-unwanted-software)
+4. 🎉 Merged PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 💪 Opened PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
