@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#321](https://github.com/ublue-os/bazzite/issues/321) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🗣 Commented on [#947](https://github.com/89luca89/distrobox/issues/947#issuecomment-1742200593) in [89luca89/distrobox](https://github.com/89luca89/distrobox)
-3. 🚀 Published release [Add CodeQL Cleanup](https://github.com/ublue-os/remove-unwanted-software/releases/tag/v6) in [ublue-os/remove-unwanted-software](https://github.com/ublue-os/remove-unwanted-software)
-4. 🎉 Merged PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 💪 Opened PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#321](https://github.com/ublue-os/bazzite/issues/321#issuecomment-1742202555) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🔒 Closed issue [#15](https://github.com/ublue-os/bazzite-arch/issues/15) in [ublue-os/bazzite-arch](https://github.com/ublue-os/bazzite-arch)
+3. 🔒 Closed issue [#321](https://github.com/ublue-os/bazzite/issues/321) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🗣 Commented on [#947](https://github.com/89luca89/distrobox/issues/947#issuecomment-1742200593) in [89luca89/distrobox](https://github.com/89luca89/distrobox)
+5. 🚀 Published release [Add CodeQL Cleanup](https://github.com/ublue-os/remove-unwanted-software/releases/tag/v6) in [ublue-os/remove-unwanted-software](https://github.com/ublue-os/remove-unwanted-software)
 <!--END_SECTION:activity-->
