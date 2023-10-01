@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/ublue-os/akmods/pull/74) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-2. 💪 Opened PR [#545](https://github.com/ublue-os/bluefin/pull/545) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 💪 Opened PR [#544](https://github.com/ublue-os/bluefin/pull/544) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🎉 Merged PR [#397](https://github.com/ublue-os/bazzite/pull/397) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#7](https://github.com/KyleGospo/rom-properties/pull/7) in [KyleGospo/rom-properties](https://github.com/KyleGospo/rom-properties)
+1. 🗣 Commented on [#499](https://github.com/ublue-os/bluefin/issues/499#issuecomment-1741967696) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+2. 🎉 Merged PR [#8](https://github.com/ublue-os/distrobox/pull/8) in [ublue-os/distrobox](https://github.com/ublue-os/distrobox)
+3. 💪 Opened PR [#74](https://github.com/ublue-os/akmods/pull/74) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+4. 💪 Opened PR [#545](https://github.com/ublue-os/bluefin/pull/545) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 💪 Opened PR [#544](https://github.com/ublue-os/bluefin/pull/544) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
