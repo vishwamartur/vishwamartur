@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#548](https://github.com/ublue-os/bluefin/pull/548) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 🗣 Commented on [#499](https://github.com/ublue-os/bluefin/issues/499#issuecomment-1741967696) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🎉 Merged PR [#8](https://github.com/ublue-os/distrobox/pull/8) in [ublue-os/distrobox](https://github.com/ublue-os/distrobox)
-5. 💪 Opened PR [#74](https://github.com/ublue-os/akmods/pull/74) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+1. 🚀 Published release [Add CodeQL Cleanup](https://github.com/ublue-os/remove-unwanted-software/releases/tag/v6) in [ublue-os/remove-unwanted-software](https://github.com/ublue-os/remove-unwanted-software)
+2. 🎉 Merged PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#398](https://github.com/ublue-os/bazzite/pull/398) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 💪 Opened PR [#548](https://github.com/ublue-os/bluefin/pull/548) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 🗣 Commented on [#499](https://github.com/ublue-os/bluefin/issues/499#issuecomment-1741967696) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
