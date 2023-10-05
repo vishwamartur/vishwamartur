@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#343](https://github.com/ublue-os/bazzite/issues/343#issuecomment-1749351020) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#407](https://github.com/ublue-os/bazzite/pull/407) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#36](https://github.com/KyleGospo/MangoHud/pull/36) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
-4. 🗣 Commented on [#404](https://github.com/ublue-os/bazzite/issues/404#issuecomment-1746131786) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#34](https://github.com/KyleGospo/MangoHud/pull/34) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
+1. 💪 Opened PR [#408](https://github.com/ublue-os/bazzite/pull/408) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#49](https://github.com/TheLogicMaster/SDH-AnimationChanger/pull/49#issuecomment-1749369719) in [TheLogicMaster/SDH-AnimationChanger](https://github.com/TheLogicMaster/SDH-AnimationChanger)
+3. ❌ Closed PR [#51](https://github.com/TheLogicMaster/SDH-AnimationChanger/pull/51) in [TheLogicMaster/SDH-AnimationChanger](https://github.com/TheLogicMaster/SDH-AnimationChanger)
+4. 💪 Opened PR [#51](https://github.com/TheLogicMaster/SDH-AnimationChanger/pull/51) in [TheLogicMaster/SDH-AnimationChanger](https://github.com/TheLogicMaster/SDH-AnimationChanger)
+5. 🗣 Commented on [#343](https://github.com/ublue-os/bazzite/issues/343#issuecomment-1749351020) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
