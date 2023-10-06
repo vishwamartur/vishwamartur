@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/ublue-os/akmods/issues/68#issuecomment-1749858781) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-2. 🗣 Commented on [#132](https://github.com/ublue-os/config/pull/132#issuecomment-1749848873) in [ublue-os/config](https://github.com/ublue-os/config)
-3. 💪 Opened PR [#408](https://github.com/ublue-os/bazzite/pull/408) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#49](https://github.com/TheLogicMaster/SDH-AnimationChanger/pull/49#issuecomment-1749369719) in [TheLogicMaster/SDH-AnimationChanger](https://github.com/TheLogicMaster/SDH-AnimationChanger)
-5. ❌ Closed PR [#51](https://github.com/TheLogicMaster/SDH-AnimationChanger/pull/51) in [TheLogicMaster/SDH-AnimationChanger](https://github.com/TheLogicMaster/SDH-AnimationChanger)
+1. 🗣 Commented on [#571](https://github.com/ublue-os/bluefin/pull/571#issuecomment-1751100441) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+2. 💪 Opened PR [#571](https://github.com/ublue-os/bluefin/pull/571) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+3. 🗣 Commented on [#68](https://github.com/ublue-os/akmods/issues/68#issuecomment-1749858781) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+4. 🗣 Commented on [#132](https://github.com/ublue-os/config/pull/132#issuecomment-1749848873) in [ublue-os/config](https://github.com/ublue-os/config)
+5. 💪 Opened PR [#408](https://github.com/ublue-os/bazzite/pull/408) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
