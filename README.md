@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/ublue-os/nvidia/issues/160#issuecomment-1751794835) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
-2. 🗣 Commented on [#160](https://github.com/ublue-os/nvidia/issues/160#issuecomment-1751773421) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
-3. 🎉 Merged PR [#413](https://github.com/ublue-os/bazzite/pull/413) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#411](https://github.com/ublue-os/bazzite/issues/411#issuecomment-1751513493) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🔒 Closed issue [#411](https://github.com/ublue-os/bazzite/issues/411) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#414](https://github.com/ublue-os/bazzite/issues/414#issuecomment-1751817879) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 💪 Opened PR [#76](https://github.com/ublue-os/akmods/pull/76) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+3. 🗣 Commented on [#160](https://github.com/ublue-os/nvidia/issues/160#issuecomment-1751794835) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+4. 🗣 Commented on [#160](https://github.com/ublue-os/nvidia/issues/160#issuecomment-1751773421) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+5. 🎉 Merged PR [#413](https://github.com/ublue-os/bazzite/pull/413) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
