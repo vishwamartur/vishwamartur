@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/ublue-os/isogenerator/pull/83) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-2. 💪 Opened PR [#573](https://github.com/ublue-os/bluefin/pull/573) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 💪 Opened PR [#82](https://github.com/ublue-os/ublue-update/pull/82) in [ublue-os/ublue-update](https://github.com/ublue-os/ublue-update)
-4. 🚀 Published release [1.1.0](https://github.com/KyleGospo/steam-patch/releases/tag/1.1.0) in [KyleGospo/steam-patch](https://github.com/KyleGospo/steam-patch)
-5. 🎉 Merged PR [#7](https://github.com/KyleGospo/gnome-ext-hanabi/pull/7) in [KyleGospo/gnome-ext-hanabi](https://github.com/KyleGospo/gnome-ext-hanabi)
+1. 🔒 Closed issue [#20](https://github.com/KyleGospo/system76-scheduler/issues/20) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+2. 🗣 Commented on [#20](https://github.com/KyleGospo/system76-scheduler/issues/20#issuecomment-1756296936) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+3. 🎉 Merged PR [#21](https://github.com/KyleGospo/system76-scheduler/pull/21) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+4. 💪 Opened PR [#21](https://github.com/KyleGospo/system76-scheduler/pull/21) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+5. 🎉 Merged PR [#83](https://github.com/ublue-os/isogenerator/pull/83) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
 <!--END_SECTION:activity-->
