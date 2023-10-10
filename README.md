@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#573](https://github.com/ublue-os/bluefin/pull/573) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 💪 Opened PR [#82](https://github.com/ublue-os/ublue-update/pull/82) in [ublue-os/ublue-update](https://github.com/ublue-os/ublue-update)
-3. 🚀 Published release [1.1.0](https://github.com/KyleGospo/steam-patch/releases/tag/1.1.0) in [KyleGospo/steam-patch](https://github.com/KyleGospo/steam-patch)
-4. 🎉 Merged PR [#7](https://github.com/KyleGospo/gnome-ext-hanabi/pull/7) in [KyleGospo/gnome-ext-hanabi](https://github.com/KyleGospo/gnome-ext-hanabi)
-5. 🗣 Commented on [#384](https://github.com/ublue-os/main/pull/384#issuecomment-1752198207) in [ublue-os/main](https://github.com/ublue-os/main)
+1. 🎉 Merged PR [#83](https://github.com/ublue-os/isogenerator/pull/83) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
+2. 💪 Opened PR [#573](https://github.com/ublue-os/bluefin/pull/573) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+3. 💪 Opened PR [#82](https://github.com/ublue-os/ublue-update/pull/82) in [ublue-os/ublue-update](https://github.com/ublue-os/ublue-update)
+4. 🚀 Published release [1.1.0](https://github.com/KyleGospo/steam-patch/releases/tag/1.1.0) in [KyleGospo/steam-patch](https://github.com/KyleGospo/steam-patch)
+5. 🎉 Merged PR [#7](https://github.com/KyleGospo/gnome-ext-hanabi/pull/7) in [KyleGospo/gnome-ext-hanabi](https://github.com/KyleGospo/gnome-ext-hanabi)
 <!--END_SECTION:activity-->
