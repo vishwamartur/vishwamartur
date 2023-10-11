@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#419](https://github.com/ublue-os/bazzite/pull/419) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#1](https://github.com/ublue-os/staging/pull/1) in [ublue-os/staging](https://github.com/ublue-os/staging)
-3. 🔒 Closed issue [#20](https://github.com/KyleGospo/system76-scheduler/issues/20) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-4. 🗣 Commented on [#20](https://github.com/KyleGospo/system76-scheduler/issues/20#issuecomment-1756296936) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
-5. 🎉 Merged PR [#21](https://github.com/KyleGospo/system76-scheduler/pull/21) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+1. 🎉 Merged PR [#419](https://github.com/ublue-os/bazzite/pull/419) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 💪 Opened PR [#419](https://github.com/ublue-os/bazzite/pull/419) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#1](https://github.com/ublue-os/staging/pull/1) in [ublue-os/staging](https://github.com/ublue-os/staging)
+4. 🔒 Closed issue [#20](https://github.com/KyleGospo/system76-scheduler/issues/20) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
+5. 🗣 Commented on [#20](https://github.com/KyleGospo/system76-scheduler/issues/20#issuecomment-1756296936) in [KyleGospo/system76-scheduler](https://github.com/KyleGospo/system76-scheduler)
 <!--END_SECTION:activity-->
