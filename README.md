@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#421](https://github.com/ublue-os/bazzite/pull/421) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#6](https://github.com/KyleGospo/HandyGCCS/pull/6) in [KyleGospo/HandyGCCS](https://github.com/KyleGospo/HandyGCCS)
-3. 💪 Opened PR [#6](https://github.com/KyleGospo/HandyGCCS/pull/6) in [KyleGospo/HandyGCCS](https://github.com/KyleGospo/HandyGCCS)
-4. 🎉 Merged PR [#417](https://github.com/ublue-os/bazzite/pull/417) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#482](https://github.com/ublue-os/bluefin/issues/482#issuecomment-1758824159) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🗣 Commented on [#424](https://github.com/ublue-os/bazzite/pull/424#issuecomment-1760505573) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#421](https://github.com/ublue-os/bazzite/pull/421) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#6](https://github.com/KyleGospo/HandyGCCS/pull/6) in [KyleGospo/HandyGCCS](https://github.com/KyleGospo/HandyGCCS)
+4. 💪 Opened PR [#6](https://github.com/KyleGospo/HandyGCCS/pull/6) in [KyleGospo/HandyGCCS](https://github.com/KyleGospo/HandyGCCS)
+5. 🎉 Merged PR [#417](https://github.com/ublue-os/bazzite/pull/417) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
