@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/ublue-os/bazzite/issues/427#issuecomment-1762400116) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🗣 Commented on [#426](https://github.com/ublue-os/bazzite/issues/426#issuecomment-1762397256) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#12](https://github.com/KyleGospo/obs-vkcapture/pull/12) in [KyleGospo/obs-vkcapture](https://github.com/KyleGospo/obs-vkcapture)
-4. 🗣 Commented on [#427](https://github.com/ublue-os/bazzite/issues/427#issuecomment-1762370847) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#332](https://github.com/ublue-os/bazzite/pull/332) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🔒 Closed issue [#427](https://github.com/ublue-os/bazzite/issues/427) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#427](https://github.com/ublue-os/bazzite/issues/427#issuecomment-1762481552) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#1](https://github.com/KyleGospo/cariboublocker/pull/1) in [KyleGospo/cariboublocker](https://github.com/KyleGospo/cariboublocker)
+4. 💪 Opened PR [#1](https://github.com/KyleGospo/cariboublocker/pull/1) in [KyleGospo/cariboublocker](https://github.com/KyleGospo/cariboublocker)
+5. 🗣 Commented on [#427](https://github.com/ublue-os/bazzite/issues/427#issuecomment-1762400116) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
