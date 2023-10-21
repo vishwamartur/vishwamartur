@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/ublue-os/bazzite-arch/pull/25) in [ublue-os/bazzite-arch](https://github.com/ublue-os/bazzite-arch)
-2. 💪 Opened PR [#398](https://github.com/ublue-os/main/pull/398) in [ublue-os/main](https://github.com/ublue-os/main)
-3. 🎉 Merged PR [#136](https://github.com/ublue-os/config/pull/136) in [ublue-os/config](https://github.com/ublue-os/config)
-4. ❌ Closed PR [#114](https://github.com/ublue-os/config/pull/114) in [ublue-os/config](https://github.com/ublue-os/config)
-5. ❌ Closed PR [#25](https://github.com/ublue-os/config/pull/25) in [ublue-os/config](https://github.com/ublue-os/config)
+1. 🗣 Commented on [#244](https://github.com/R2Northstar/NorthstarWiki/pull/244#issuecomment-1773698481) in [R2Northstar/NorthstarWiki](https://github.com/R2Northstar/NorthstarWiki)
+2. 🎉 Merged PR [#25](https://github.com/ublue-os/bazzite-arch/pull/25) in [ublue-os/bazzite-arch](https://github.com/ublue-os/bazzite-arch)
+3. 💪 Opened PR [#398](https://github.com/ublue-os/main/pull/398) in [ublue-os/main](https://github.com/ublue-os/main)
+4. 🎉 Merged PR [#136](https://github.com/ublue-os/config/pull/136) in [ublue-os/config](https://github.com/ublue-os/config)
+5. ❌ Closed PR [#114](https://github.com/ublue-os/config/pull/114) in [ublue-os/config](https://github.com/ublue-os/config)
 <!--END_SECTION:activity-->
