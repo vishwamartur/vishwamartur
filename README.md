@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#459](https://github.com/ublue-os/bazzite/pull/459#issuecomment-1774150388) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🗣 Commented on [#457](https://github.com/ublue-os/bazzite/issues/457#issuecomment-1773711320) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#457](https://github.com/ublue-os/bazzite/issues/457#issuecomment-1773699750) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#244](https://github.com/R2Northstar/NorthstarWiki/pull/244#issuecomment-1773698481) in [R2Northstar/NorthstarWiki](https://github.com/R2Northstar/NorthstarWiki)
-5. 🎉 Merged PR [#25](https://github.com/ublue-os/bazzite-arch/pull/25) in [ublue-os/bazzite-arch](https://github.com/ublue-os/bazzite-arch)
+1. 🔒 Closed issue [#462](https://github.com/ublue-os/bazzite/issues/462) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#462](https://github.com/ublue-os/bazzite/issues/462#issuecomment-1775759298) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#459](https://github.com/ublue-os/bazzite/pull/459#issuecomment-1774150388) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🗣 Commented on [#457](https://github.com/ublue-os/bazzite/issues/457#issuecomment-1773711320) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#457](https://github.com/ublue-os/bazzite/issues/457#issuecomment-1773699750) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
