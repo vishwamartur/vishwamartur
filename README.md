@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ublue-os/openrazer/pull/4) in [ublue-os/openrazer](https://github.com/ublue-os/openrazer)
-2. 🎉 Merged PR [#140](https://github.com/ublue-os/config/pull/140) in [ublue-os/config](https://github.com/ublue-os/config)
-3. ❌ Closed PR [#461](https://github.com/ublue-os/bazzite/pull/461) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🔒 Closed issue [#462](https://github.com/ublue-os/bazzite/issues/462) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#462](https://github.com/ublue-os/bazzite/issues/462#issuecomment-1775759298) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#463](https://github.com/ublue-os/bazzite/issues/463#issuecomment-1778479692) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#465](https://github.com/ublue-os/bazzite/pull/465) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#4](https://github.com/ublue-os/openrazer/pull/4) in [ublue-os/openrazer](https://github.com/ublue-os/openrazer)
+4. 🎉 Merged PR [#140](https://github.com/ublue-os/config/pull/140) in [ublue-os/config](https://github.com/ublue-os/config)
+5. ❌ Closed PR [#461](https://github.com/ublue-os/bazzite/pull/461) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
