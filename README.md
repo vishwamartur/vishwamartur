@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ublue-os/fedora-distrobox/pull/2) in [ublue-os/fedora-distrobox](https://github.com/ublue-os/fedora-distrobox)
-2. 🗣 Commented on [#481](https://github.com/ublue-os/bazzite/issues/481#issuecomment-1784210256) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🔒 Closed issue [#481](https://github.com/ublue-os/bazzite/issues/481) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#481](https://github.com/ublue-os/bazzite/issues/481#issuecomment-1784210034) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#10](https://github.com/KyleGospo/LatencyFleX/pull/10) in [KyleGospo/LatencyFleX](https://github.com/KyleGospo/LatencyFleX)
+1. 🎉 Merged PR [#50](https://github.com/ublue-os/framework/pull/50) in [ublue-os/framework](https://github.com/ublue-os/framework)
+2. 🗣 Commented on [#50](https://github.com/ublue-os/framework/pull/50#issuecomment-1784448854) in [ublue-os/framework](https://github.com/ublue-os/framework)
+3. 💪 Opened PR [#50](https://github.com/ublue-os/framework/pull/50) in [ublue-os/framework](https://github.com/ublue-os/framework)
+4. 🎉 Merged PR [#2](https://github.com/ublue-os/fedora-distrobox/pull/2) in [ublue-os/fedora-distrobox](https://github.com/ublue-os/fedora-distrobox)
+5. 🗣 Commented on [#481](https://github.com/ublue-os/bazzite/issues/481#issuecomment-1784210256) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
