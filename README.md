@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/KyleGospo/HandyGCCS/pull/10) in [KyleGospo/HandyGCCS](https://github.com/KyleGospo/HandyGCCS)
-2. 🎉 Merged PR [#512](https://github.com/ublue-os/bazzite/pull/512) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#422](https://github.com/ublue-os/bazzite/pull/422) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#433](https://github.com/ublue-os/bazzite/pull/433) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#9](https://github.com/KyleGospo/HandyGCCS/pull/9) in [KyleGospo/HandyGCCS](https://github.com/KyleGospo/HandyGCCS)
+1. 🗣 Commented on [#478](https://github.com/ublue-os/bazzite/issues/478#issuecomment-1801010416) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🔒 Closed issue [#504](https://github.com/ublue-os/bazzite/issues/504) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🔓 Reopened issue [#504](https://github.com/ublue-os/bazzite/issues/504) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🔒 Closed issue [#504](https://github.com/ublue-os/bazzite/issues/504) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#504](https://github.com/ublue-os/bazzite/issues/504#issuecomment-1800993210) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
