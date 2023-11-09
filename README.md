@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/KyleGospo/obs-vkcapture/pull/15) in [KyleGospo/obs-vkcapture](https://github.com/KyleGospo/obs-vkcapture)
-2. 🎉 Merged PR [#647](https://github.com/ublue-os/bluefin/pull/647) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 💪 Opened PR [#647](https://github.com/ublue-os/bluefin/pull/647) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🗣 Commented on [#575](https://github.com/ublue-os/bluefin/issues/575#issuecomment-1803035353) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 🗣 Commented on [#301](https://github.com/ublue-os/main/pull/301#issuecomment-1802991859) in [ublue-os/main](https://github.com/ublue-os/main)
+1. 💪 Opened PR [#525](https://github.com/ublue-os/bazzite/pull/525) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#15](https://github.com/KyleGospo/obs-vkcapture/pull/15) in [KyleGospo/obs-vkcapture](https://github.com/KyleGospo/obs-vkcapture)
+3. 🎉 Merged PR [#647](https://github.com/ublue-os/bluefin/pull/647) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 💪 Opened PR [#647](https://github.com/ublue-os/bluefin/pull/647) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 🗣 Commented on [#575](https://github.com/ublue-os/bluefin/issues/575#issuecomment-1803035353) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
