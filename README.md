@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/ublue-os/config/pull/153) in [ublue-os/config](https://github.com/ublue-os/config)
-2. 🎉 Merged PR [#154](https://github.com/ublue-os/config/pull/154) in [ublue-os/config](https://github.com/ublue-os/config)
-3. 🗣 Commented on [#154](https://github.com/ublue-os/config/pull/154#issuecomment-1817373085) in [ublue-os/config](https://github.com/ublue-os/config)
-4. 🗣 Commented on [#556](https://github.com/ublue-os/bazzite/issues/556#issuecomment-1817362880) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🔒 Closed issue [#558](https://github.com/ublue-os/bazzite/issues/558) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#4](https://github.com/KyleGospo/steam-patch/pull/4) in [KyleGospo/steam-patch](https://github.com/KyleGospo/steam-patch)
+2. 🎉 Merged PR [#153](https://github.com/ublue-os/config/pull/153) in [ublue-os/config](https://github.com/ublue-os/config)
+3. 🎉 Merged PR [#154](https://github.com/ublue-os/config/pull/154) in [ublue-os/config](https://github.com/ublue-os/config)
+4. 🗣 Commented on [#154](https://github.com/ublue-os/config/pull/154#issuecomment-1817373085) in [ublue-os/config](https://github.com/ublue-os/config)
+5. 🗣 Commented on [#556](https://github.com/ublue-os/bazzite/issues/556#issuecomment-1817362880) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
