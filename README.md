@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/KyleGospo/steam-patch/pull/5) in [KyleGospo/steam-patch](https://github.com/KyleGospo/steam-patch)
-2. 🗣 Commented on [#570](https://github.com/ublue-os/bazzite/issues/570#issuecomment-1819867280) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#568](https://github.com/ublue-os/bazzite/pull/568) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#569](https://github.com/ublue-os/bazzite/pull/569) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#10](https://github.com/KyleGospo/Logomenu/pull/10) in [KyleGospo/Logomenu](https://github.com/KyleGospo/Logomenu)
+1. 🎉 Merged PR [#571](https://github.com/ublue-os/bazzite/pull/571) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#5](https://github.com/KyleGospo/steam-patch/pull/5) in [KyleGospo/steam-patch](https://github.com/KyleGospo/steam-patch)
+3. 🗣 Commented on [#570](https://github.com/ublue-os/bazzite/issues/570#issuecomment-1819867280) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🎉 Merged PR [#568](https://github.com/ublue-os/bazzite/pull/568) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#569](https://github.com/ublue-os/bazzite/pull/569) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
