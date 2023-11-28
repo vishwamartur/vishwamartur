@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/KyleGospo/webapp-manager/pull/16) in [KyleGospo/webapp-manager](https://github.com/KyleGospo/webapp-manager)
-2. 🎉 Merged PR [#11](https://github.com/KyleGospo/Logomenu/pull/11) in [KyleGospo/Logomenu](https://github.com/KyleGospo/Logomenu)
-3. 🎉 Merged PR [#586](https://github.com/ublue-os/bazzite/pull/586) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#586](https://github.com/ublue-os/bazzite/pull/586#issuecomment-1826928198) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#161](https://github.com/ublue-os/config/pull/161#issuecomment-1826136249) in [ublue-os/config](https://github.com/ublue-os/config)
+1. 🗣 Commented on [#588](https://github.com/ublue-os/bazzite/issues/588#issuecomment-1829237943) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#16](https://github.com/KyleGospo/webapp-manager/pull/16) in [KyleGospo/webapp-manager](https://github.com/KyleGospo/webapp-manager)
+3. 🎉 Merged PR [#11](https://github.com/KyleGospo/Logomenu/pull/11) in [KyleGospo/Logomenu](https://github.com/KyleGospo/Logomenu)
+4. 🎉 Merged PR [#586](https://github.com/ublue-os/bazzite/pull/586) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#586](https://github.com/ublue-os/bazzite/pull/586#issuecomment-1826928198) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
