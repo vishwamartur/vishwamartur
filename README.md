@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/KyleGospo/gamescope-session/pull/57) in [KyleGospo/gamescope-session](https://github.com/KyleGospo/gamescope-session)
-2. 🎉 Merged PR [#59](https://github.com/KyleGospo/MangoHud/pull/59) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
-3. 🎉 Merged PR [#60](https://github.com/KyleGospo/MangoHud/pull/60) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
-4. 💪 Opened PR [#60](https://github.com/KyleGospo/MangoHud/pull/60) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
-5. 🎉 Merged PR [#165](https://github.com/ublue-os/nvidia/pull/165) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+1. 🎉 Merged PR [#21](https://github.com/KyleGospo/obs-vkcapture/pull/21) in [KyleGospo/obs-vkcapture](https://github.com/KyleGospo/obs-vkcapture)
+2. 🎉 Merged PR [#57](https://github.com/KyleGospo/gamescope-session/pull/57) in [KyleGospo/gamescope-session](https://github.com/KyleGospo/gamescope-session)
+3. 🎉 Merged PR [#59](https://github.com/KyleGospo/MangoHud/pull/59) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
+4. 🎉 Merged PR [#60](https://github.com/KyleGospo/MangoHud/pull/60) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
+5. 💪 Opened PR [#60](https://github.com/KyleGospo/MangoHud/pull/60) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
 <!--END_SECTION:activity-->
