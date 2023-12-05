@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#715](https://github.com/ublue-os/bluefin/pull/715) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 🎉 Merged PR [#599](https://github.com/ublue-os/bazzite/pull/599) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#600](https://github.com/ublue-os/bazzite/pull/600) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#598](https://github.com/ublue-os/bazzite/issues/598#issuecomment-1837286536) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#5](https://github.com/KyleGospo/wallpaper-engine-kde-plugin/pull/5) in [KyleGospo/wallpaper-engine-kde-plugin](https://github.com/KyleGospo/wallpaper-engine-kde-plugin)
+1. 🎉 Merged PR [#715](https://github.com/ublue-os/bluefin/pull/715) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+2. 🗣 Commented on [#715](https://github.com/ublue-os/bluefin/pull/715#issuecomment-1841306300) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+3. 💪 Opened PR [#715](https://github.com/ublue-os/bluefin/pull/715) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 🎉 Merged PR [#599](https://github.com/ublue-os/bazzite/pull/599) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#600](https://github.com/ublue-os/bazzite/pull/600) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
