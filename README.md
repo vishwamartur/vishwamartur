@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#715](https://github.com/ublue-os/bluefin/pull/715) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 🗣 Commented on [#715](https://github.com/ublue-os/bluefin/pull/715#issuecomment-1841306300) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 💪 Opened PR [#715](https://github.com/ublue-os/bluefin/pull/715) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🎉 Merged PR [#599](https://github.com/ublue-os/bazzite/pull/599) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#600](https://github.com/ublue-os/bazzite/pull/600) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🚀 Published release [1.0.2](https://github.com/KyleGospo/extest/releases/tag/1.0.2) in [KyleGospo/extest](https://github.com/KyleGospo/extest)
+2. 🎉 Merged PR [#2](https://github.com/KyleGospo/extest/pull/2) in [KyleGospo/extest](https://github.com/KyleGospo/extest)
+3. 🗣 Commented on [#2](https://github.com/KyleGospo/extest/pull/2#issuecomment-1848229322) in [KyleGospo/extest](https://github.com/KyleGospo/extest)
+4. 🎉 Merged PR [#4](https://github.com/KyleGospo/extest/pull/4) in [KyleGospo/extest](https://github.com/KyleGospo/extest)
+5. 💪 Opened PR [#4](https://github.com/KyleGospo/extest/pull/4) in [KyleGospo/extest](https://github.com/KyleGospo/extest)
 <!--END_SECTION:activity-->
