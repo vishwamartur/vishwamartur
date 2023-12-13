@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/Stunkymonkey/nautilus-open-any-terminal/pull/97) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
-2. 🎉 Merged PR [#12](https://github.com/KyleGospo/Logomenu/pull/12) in [KyleGospo/Logomenu](https://github.com/KyleGospo/Logomenu)
-3. 🗣 Commented on [#5](https://github.com/Supreeeme/extest/issues/5#issuecomment-1849118721) in [Supreeeme/extest](https://github.com/Supreeeme/extest)
-4. 🔒 Closed issue [#5](https://github.com/Supreeeme/extest/issues/5) in [Supreeeme/extest](https://github.com/Supreeeme/extest)
-5. 🚀 Published release [1.0.2](https://github.com/KyleGospo/extest/releases/tag/1.0.2) in [KyleGospo/extest](https://github.com/KyleGospo/extest)
+1. 🎉 Merged PR [#1](https://github.com/ublue-os/tailscale-gnome-qs/pull/1) in [ublue-os/tailscale-gnome-qs](https://github.com/ublue-os/tailscale-gnome-qs)
+2. 💪 Opened PR [#1](https://github.com/ublue-os/tailscale-gnome-qs/pull/1) in [ublue-os/tailscale-gnome-qs](https://github.com/ublue-os/tailscale-gnome-qs)
+3. 🎉 Merged PR [#1](https://github.com/ublue-os/Logomenu/pull/1) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
+4. 💪 Opened PR [#1](https://github.com/ublue-os/Logomenu/pull/1) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
+5. 💪 Opened PR [#97](https://github.com/Stunkymonkey/nautilus-open-any-terminal/pull/97) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
 <!--END_SECTION:activity-->
