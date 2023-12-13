@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ublue-os/tailscale-gnome-qs/pull/1) in [ublue-os/tailscale-gnome-qs](https://github.com/ublue-os/tailscale-gnome-qs)
-2. 💪 Opened PR [#1](https://github.com/ublue-os/tailscale-gnome-qs/pull/1) in [ublue-os/tailscale-gnome-qs](https://github.com/ublue-os/tailscale-gnome-qs)
-3. 🎉 Merged PR [#1](https://github.com/ublue-os/Logomenu/pull/1) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
-4. 💪 Opened PR [#1](https://github.com/ublue-os/Logomenu/pull/1) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
-5. 💪 Opened PR [#97](https://github.com/Stunkymonkey/nautilus-open-any-terminal/pull/97) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
+1. 💪 Opened PR [#728](https://github.com/ublue-os/bluefin/pull/728) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+2. 🎉 Merged PR [#1](https://github.com/ublue-os/tailscale-gnome-qs/pull/1) in [ublue-os/tailscale-gnome-qs](https://github.com/ublue-os/tailscale-gnome-qs)
+3. 💪 Opened PR [#1](https://github.com/ublue-os/tailscale-gnome-qs/pull/1) in [ublue-os/tailscale-gnome-qs](https://github.com/ublue-os/tailscale-gnome-qs)
+4. 🎉 Merged PR [#1](https://github.com/ublue-os/Logomenu/pull/1) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
+5. 💪 Opened PR [#1](https://github.com/ublue-os/Logomenu/pull/1) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
 <!--END_SECTION:activity-->
