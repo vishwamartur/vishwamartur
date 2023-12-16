@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#728](https://github.com/ublue-os/bluefin/pull/728#issuecomment-1858917483) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 🗣 Commented on [#733](https://github.com/ublue-os/bluefin/issues/733#issuecomment-1857415469) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 🎉 Merged PR [#730](https://github.com/ublue-os/bluefin/pull/730) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🗣 Commented on [#728](https://github.com/ublue-os/bluefin/pull/728#issuecomment-1857185562) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 💪 Opened PR [#732](https://github.com/ublue-os/bluefin/pull/732) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🎉 Merged PR [#1](https://github.com/KyleGospo/nautilus-open-any-terminal/pull/1) in [KyleGospo/nautilus-open-any-terminal](https://github.com/KyleGospo/nautilus-open-any-terminal)
+2. 💪 Opened PR [#1](https://github.com/KyleGospo/nautilus-open-any-terminal/pull/1) in [KyleGospo/nautilus-open-any-terminal](https://github.com/KyleGospo/nautilus-open-any-terminal)
+3. 🗣 Commented on [#728](https://github.com/ublue-os/bluefin/pull/728#issuecomment-1858917483) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 🗣 Commented on [#733](https://github.com/ublue-os/bluefin/issues/733#issuecomment-1857415469) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 🎉 Merged PR [#730](https://github.com/ublue-os/bluefin/pull/730) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
