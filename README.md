@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#733](https://github.com/ublue-os/bluefin/issues/733) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 🎉 Merged PR [#728](https://github.com/ublue-os/bluefin/pull/728) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 🗣 Commented on [#728](https://github.com/ublue-os/bluefin/pull/728#issuecomment-1859005510) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🗣 Commented on [#728](https://github.com/ublue-os/bluefin/pull/728#issuecomment-1858990769) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 🗣 Commented on [#97](https://github.com/Stunkymonkey/nautilus-open-any-terminal/pull/97#issuecomment-1858944515) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
+1. 🗣 Commented on [#464](https://github.com/ublue-os/bazzite/issues/464#issuecomment-1859056238) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#27](https://github.com/KyleGospo/rom-properties/pull/27) in [KyleGospo/rom-properties](https://github.com/KyleGospo/rom-properties)
+3. 🔒 Closed issue [#733](https://github.com/ublue-os/bluefin/issues/733) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 🎉 Merged PR [#728](https://github.com/ublue-os/bluefin/pull/728) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 🗣 Commented on [#728](https://github.com/ublue-os/bluefin/pull/728#issuecomment-1859005510) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
