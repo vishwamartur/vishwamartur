@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#624](https://github.com/ublue-os/bazzite/pull/624) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#1](https://github.com/lvxnull/nautilus-open-any-terminal/pull/1) in [lvxnull/nautilus-open-any-terminal](https://github.com/lvxnull/nautilus-open-any-terminal)
-3. 💪 Opened PR [#64](https://github.com/Aryan20/Logomenu/pull/64) in [Aryan20/Logomenu](https://github.com/Aryan20/Logomenu)
-4. ❌ Closed PR [#521](https://github.com/ublue-os/bazzite/pull/521) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#620](https://github.com/ublue-os/bazzite/pull/620) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#64](https://github.com/Aryan20/Logomenu/pull/64#issuecomment-1865273634) in [Aryan20/Logomenu](https://github.com/Aryan20/Logomenu)
+2. 🎉 Merged PR [#624](https://github.com/ublue-os/bazzite/pull/624) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#1](https://github.com/lvxnull/nautilus-open-any-terminal/pull/1) in [lvxnull/nautilus-open-any-terminal](https://github.com/lvxnull/nautilus-open-any-terminal)
+4. 💪 Opened PR [#64](https://github.com/Aryan20/Logomenu/pull/64) in [Aryan20/Logomenu](https://github.com/Aryan20/Logomenu)
+5. ❌ Closed PR [#521](https://github.com/ublue-os/bazzite/pull/521) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
