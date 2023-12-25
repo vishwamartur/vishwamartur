@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#462](https://github.com/ublue-os/main/pull/462) in [ublue-os/main](https://github.com/ublue-os/main)
-2. 💪 Opened PR [#462](https://github.com/ublue-os/main/pull/462) in [ublue-os/main](https://github.com/ublue-os/main)
-3. 🗣 Commented on [#523](https://github.com/ublue-os/bazzite/issues/523#issuecomment-1868586519) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. ❌ Closed PR [#1](https://github.com/lvxnull/nautilus-open-any-terminal/pull/1) in [lvxnull/nautilus-open-any-terminal](https://github.com/lvxnull/nautilus-open-any-terminal)
-5. 🎉 Merged PR [#2](https://github.com/KyleGospo/nautilus-open-any-terminal/pull/2) in [KyleGospo/nautilus-open-any-terminal](https://github.com/KyleGospo/nautilus-open-any-terminal)
+1. 🔒 Closed issue [#527](https://github.com/ublue-os/bazzite/issues/527) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. ❌ Closed PR [#462](https://github.com/ublue-os/main/pull/462) in [ublue-os/main](https://github.com/ublue-os/main)
+3. 💪 Opened PR [#462](https://github.com/ublue-os/main/pull/462) in [ublue-os/main](https://github.com/ublue-os/main)
+4. 🗣 Commented on [#523](https://github.com/ublue-os/bazzite/issues/523#issuecomment-1868586519) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. ❌ Closed PR [#1](https://github.com/lvxnull/nautilus-open-any-terminal/pull/1) in [lvxnull/nautilus-open-any-terminal](https://github.com/lvxnull/nautilus-open-any-terminal)
 <!--END_SECTION:activity-->
