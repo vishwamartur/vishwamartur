@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/Stunkymonkey/nautilus-open-any-terminal/pull/104#issuecomment-1868760039) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
-2. 🎉 Merged PR [#21](https://github.com/KyleGospo/gnome-ext-hanabi/pull/21) in [KyleGospo/gnome-ext-hanabi](https://github.com/KyleGospo/gnome-ext-hanabi)
-3. 🎉 Merged PR [#457](https://github.com/ublue-os/main/pull/457) in [ublue-os/main](https://github.com/ublue-os/main)
-4. 🔒 Closed issue [#527](https://github.com/ublue-os/bazzite/issues/527) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. ❌ Closed PR [#462](https://github.com/ublue-os/main/pull/462) in [ublue-os/main](https://github.com/ublue-os/main)
+1. 🎉 Merged PR [#1](https://github.com/ublue-os/waydroid_script/pull/1) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
+2. 🎉 Merged PR [#2](https://github.com/ublue-os/waydroid_script/pull/2) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
+3. 🎉 Merged PR [#3](https://github.com/ublue-os/waydroid_script/pull/3) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
+4. 💪 Opened PR [#3](https://github.com/ublue-os/waydroid_script/pull/3) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
+5. 💪 Opened PR [#2](https://github.com/ublue-os/waydroid_script/pull/2) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
 <!--END_SECTION:activity-->
