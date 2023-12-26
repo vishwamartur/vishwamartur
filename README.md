@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/ublue-os/config/pull/179) in [ublue-os/config](https://github.com/ublue-os/config)
-2. 🎉 Merged PR [#1](https://github.com/ublue-os/waydroid_script/pull/1) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
-3. 🎉 Merged PR [#2](https://github.com/ublue-os/waydroid_script/pull/2) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
-4. 🎉 Merged PR [#3](https://github.com/ublue-os/waydroid_script/pull/3) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
-5. 💪 Opened PR [#3](https://github.com/ublue-os/waydroid_script/pull/3) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
+1. 🎉 Merged PR [#629](https://github.com/ublue-os/bazzite/pull/629) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 💪 Opened PR [#179](https://github.com/ublue-os/config/pull/179) in [ublue-os/config](https://github.com/ublue-os/config)
+3. 🎉 Merged PR [#1](https://github.com/ublue-os/waydroid_script/pull/1) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
+4. 🎉 Merged PR [#2](https://github.com/ublue-os/waydroid_script/pull/2) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
+5. 🎉 Merged PR [#3](https://github.com/ublue-os/waydroid_script/pull/3) in [ublue-os/waydroid_script](https://github.com/ublue-os/waydroid_script)
 <!--END_SECTION:activity-->
