@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#655](https://github.com/ublue-os/bazzite/issues/655#issuecomment-1879409700) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#654](https://github.com/ublue-os/bazzite/pull/654) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#465](https://github.com/ublue-os/main/issues/465#issuecomment-1878200176) in [ublue-os/main](https://github.com/ublue-os/main)
-4. 💪 Opened PR [#184](https://github.com/ublue-os/config/pull/184) in [ublue-os/config](https://github.com/ublue-os/config)
-5. 🎉 Merged PR [#651](https://github.com/ublue-os/bazzite/pull/651) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 💪 Opened PR [#184](https://github.com/ublue-os/yafti/pull/184) in [ublue-os/yafti](https://github.com/ublue-os/yafti)
+2. 🎉 Merged PR [#178](https://github.com/ublue-os/yafti/pull/178) in [ublue-os/yafti](https://github.com/ublue-os/yafti)
+3. 🎉 Merged PR [#174](https://github.com/ublue-os/yafti/pull/174) in [ublue-os/yafti](https://github.com/ublue-os/yafti)
+4. 🎉 Merged PR [#173](https://github.com/ublue-os/yafti/pull/173) in [ublue-os/yafti](https://github.com/ublue-os/yafti)
+5. 🎉 Merged PR [#144](https://github.com/ublue-os/yafti/pull/144) in [ublue-os/yafti](https://github.com/ublue-os/yafti)
 <!--END_SECTION:activity-->
