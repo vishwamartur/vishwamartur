@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#188](https://github.com/ublue-os/config/pull/188) in [ublue-os/config](https://github.com/ublue-os/config)
-2. 🎉 Merged PR [#1](https://github.com/KyleGospo/GamescopeShaders/pull/1) in [KyleGospo/GamescopeShaders](https://github.com/KyleGospo/GamescopeShaders)
-3. 🗣 Commented on [#669](https://github.com/ublue-os/bazzite/pull/669#issuecomment-1886253356) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#471](https://github.com/ublue-os/main/issues/471#issuecomment-1886185973) in [ublue-os/main](https://github.com/ublue-os/main)
-5. 🗣 Commented on [#669](https://github.com/ublue-os/bazzite/pull/669#issuecomment-1886182247) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🔒 Closed issue [#670](https://github.com/ublue-os/bazzite/issues/670) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#188](https://github.com/ublue-os/config/pull/188) in [ublue-os/config](https://github.com/ublue-os/config)
+3. 🎉 Merged PR [#1](https://github.com/KyleGospo/GamescopeShaders/pull/1) in [KyleGospo/GamescopeShaders](https://github.com/KyleGospo/GamescopeShaders)
+4. 🗣 Commented on [#669](https://github.com/ublue-os/bazzite/pull/669#issuecomment-1886253356) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#471](https://github.com/ublue-os/main/issues/471#issuecomment-1886185973) in [ublue-os/main](https://github.com/ublue-os/main)
 <!--END_SECTION:activity-->
