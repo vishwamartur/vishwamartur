@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/ublue-os/isogenerator/pull/89) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-2. 🔒 Closed issue [#82](https://github.com/ublue-os/isogenerator/issues/82) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-3. 🔒 Closed issue [#67](https://github.com/ublue-os/isogenerator/issues/67) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-4. 🎉 Merged PR [#88](https://github.com/ublue-os/isogenerator/pull/88) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-5. 💪 Opened PR [#189](https://github.com/ublue-os/config/pull/189) in [ublue-os/config](https://github.com/ublue-os/config)
+1. 🎉 Merged PR [#189](https://github.com/ublue-os/config/pull/189) in [ublue-os/config](https://github.com/ublue-os/config)
+2. 🎉 Merged PR [#89](https://github.com/ublue-os/isogenerator/pull/89) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
+3. 🔒 Closed issue [#82](https://github.com/ublue-os/isogenerator/issues/82) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
+4. 🔒 Closed issue [#67](https://github.com/ublue-os/isogenerator/issues/67) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
+5. 🎉 Merged PR [#88](https://github.com/ublue-os/isogenerator/pull/88) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
 <!--END_SECTION:activity-->
