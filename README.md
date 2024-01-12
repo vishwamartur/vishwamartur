@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#191](https://github.com/ublue-os/config/pull/191) in [ublue-os/config](https://github.com/ublue-os/config)
-2. 💪 Opened PR [#191](https://github.com/ublue-os/config/pull/191) in [ublue-os/config](https://github.com/ublue-os/config)
-3. 🎉 Merged PR [#176](https://github.com/ublue-os/config/pull/176) in [ublue-os/config](https://github.com/ublue-os/config)
-4. 🎉 Merged PR [#90](https://github.com/ublue-os/isogenerator/pull/90) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-5. 🎉 Merged PR [#677](https://github.com/ublue-os/bazzite/pull/677) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#587](https://github.com/ublue-os/bazzite/pull/587#issuecomment-1889821787) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#191](https://github.com/ublue-os/config/pull/191) in [ublue-os/config](https://github.com/ublue-os/config)
+3. 💪 Opened PR [#191](https://github.com/ublue-os/config/pull/191) in [ublue-os/config](https://github.com/ublue-os/config)
+4. 🎉 Merged PR [#176](https://github.com/ublue-os/config/pull/176) in [ublue-os/config](https://github.com/ublue-os/config)
+5. 🎉 Merged PR [#90](https://github.com/ublue-os/isogenerator/pull/90) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
 <!--END_SECTION:activity-->
