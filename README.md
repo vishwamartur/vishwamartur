@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#680](https://github.com/ublue-os/bazzite/issues/680#issuecomment-1890868061) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#31](https://github.com/KyleGospo/rom-properties/pull/31) in [KyleGospo/rom-properties](https://github.com/KyleGospo/rom-properties)
-3. 🎉 Merged PR [#684](https://github.com/ublue-os/bazzite/pull/684) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#682](https://github.com/ublue-os/bazzite/pull/682) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#680](https://github.com/ublue-os/bazzite/issues/680#issuecomment-1890611084) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#4](https://github.com/ublue-os/Logomenu/pull/4) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
+2. 💪 Opened PR [#4](https://github.com/ublue-os/Logomenu/pull/4) in [ublue-os/Logomenu](https://github.com/ublue-os/Logomenu)
+3. 🎉 Merged PR [#3](https://github.com/ublue-os/android-udev-rules/pull/3) in [ublue-os/android-udev-rules](https://github.com/ublue-os/android-udev-rules)
+4. 🗣 Commented on [#680](https://github.com/ublue-os/bazzite/issues/680#issuecomment-1890868061) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#31](https://github.com/KyleGospo/rom-properties/pull/31) in [KyleGospo/rom-properties](https://github.com/KyleGospo/rom-properties)
 <!--END_SECTION:activity-->
