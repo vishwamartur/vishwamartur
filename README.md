@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishwanath Martur
 =========================================================================================================================================
 
-Web Devloper
+A MERN Stack Developer
 ------------
 
 👋 Hi, I’m a MERN full stack developer who loves to create web applications using MongoDB, Express, React, and Node.js. 🌐 👩‍💻 I have experience in building and deploying scalable, responsive, and user-friendly web apps using the latest technologies and best practices. 💯 🌱 I’m currently learning more about cloud computing, artificial intelligence. ☁️ 👯 I’m looking to collaborate on any exciting and challenging MERN projects that can make a positive impact on the world. 🌎 😄 I’m passionate about coding, learning, and sharing my knowledge with others. 📚 🔭 Fun fact: I’m also a fan of astronomy and sci-fi movies. 🌠
