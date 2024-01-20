@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#698](https://github.com/ublue-os/bazzite/pull/698) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#110](https://github.com/ublue-os/akmods/pull/110) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-3. 🗣 Commented on [#188](https://github.com/ublue-os/nvidia/issues/188#issuecomment-1901877608) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
-4. 💪 Opened PR [#110](https://github.com/ublue-os/akmods/pull/110) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-5. 🎉 Merged PR [#75](https://github.com/KyleGospo/MangoHud/pull/75) in [KyleGospo/MangoHud](https://github.com/KyleGospo/MangoHud)
+1. 🎉 Merged PR [#698](https://github.com/ublue-os/bazzite/pull/698) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 💪 Opened PR [#698](https://github.com/ublue-os/bazzite/pull/698) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#110](https://github.com/ublue-os/akmods/pull/110) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+4. 🗣 Commented on [#188](https://github.com/ublue-os/nvidia/issues/188#issuecomment-1901877608) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+5. 💪 Opened PR [#110](https://github.com/ublue-os/akmods/pull/110) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
 <!--END_SECTION:activity-->
