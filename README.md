@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#699](https://github.com/ublue-os/bazzite/pull/699) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#111](https://github.com/ublue-os/akmods/pull/111) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-3. 💪 Opened PR [#111](https://github.com/ublue-os/akmods/pull/111) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-4. 🎉 Merged PR [#1](https://github.com/KyleGospo/bmi260/pull/1) in [KyleGospo/bmi260](https://github.com/KyleGospo/bmi260)
-5. 🎉 Merged PR [#33](https://github.com/KyleGospo/rom-properties/pull/33) in [KyleGospo/rom-properties](https://github.com/KyleGospo/rom-properties)
+1. 💪 Opened PR [#112](https://github.com/ublue-os/akmods/pull/112) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+2. 🎉 Merged PR [#10](https://github.com/ublue-os/packages/pull/10) in [ublue-os/packages](https://github.com/ublue-os/packages)
+3. 🎉 Merged PR [#699](https://github.com/ublue-os/bazzite/pull/699) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🎉 Merged PR [#111](https://github.com/ublue-os/akmods/pull/111) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+5. 💪 Opened PR [#111](https://github.com/ublue-os/akmods/pull/111) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
 <!--END_SECTION:activity-->
