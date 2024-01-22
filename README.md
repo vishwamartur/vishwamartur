@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/ublue-os/packages/pull/11) in [ublue-os/packages](https://github.com/ublue-os/packages)
-2. 💪 Opened PR [#11](https://github.com/ublue-os/packages/pull/11) in [ublue-os/packages](https://github.com/ublue-os/packages)
-3. 🎉 Merged PR [#114](https://github.com/ublue-os/akmods/pull/114) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-4. 🎉 Merged PR [#113](https://github.com/ublue-os/akmods/pull/113) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-5. 💪 Opened PR [#114](https://github.com/ublue-os/akmods/pull/114) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+1. 🎉 Merged PR [#2](https://github.com/KyleGospo/bmi260/pull/2) in [KyleGospo/bmi260](https://github.com/KyleGospo/bmi260)
+2. 🎉 Merged PR [#11](https://github.com/ublue-os/packages/pull/11) in [ublue-os/packages](https://github.com/ublue-os/packages)
+3. 💪 Opened PR [#11](https://github.com/ublue-os/packages/pull/11) in [ublue-os/packages](https://github.com/ublue-os/packages)
+4. 🎉 Merged PR [#114](https://github.com/ublue-os/akmods/pull/114) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+5. 🎉 Merged PR [#113](https://github.com/ublue-os/akmods/pull/113) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
 <!--END_SECTION:activity-->
