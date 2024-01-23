@@ -7,7 +7,6 @@ A MERN Stack Developer
 👋 Hi, I’m a MERN full stack developer who loves to create web applications using MongoDB, Express, React, and Node.js. 🌐 👩‍💻 I have experience in building and deploying scalable, responsive, and user-friendly web apps using the latest technologies and best practices. 💯 🌱 I’m currently learning more about cloud computing, artificial intelligence. ☁️ 👯 I’m looking to collaborate on any exciting and challenging MERN projects that can make a positive impact on the world. 🌎 😄 I’m passionate about coding, learning, and sharing my knowledge with others. 📚 🔭 Fun fact: I’m also a fan of astronomy and sci-fi movies. 🌠
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
-* ✉️  You can contact me at [vishwamartur@gmail.com](mailto:vishwamartur@gmail.com)
 * 🚀  I'm currently working on [Harman Connected Services](http://www.harman.com/)
 * 🧠  I'm learning React JS and Typescript
 * 🤝  I'm open to collaborating on Open Source Projects
