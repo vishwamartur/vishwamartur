@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/KyleGospo/rom-properties/pull/35) in [KyleGospo/rom-properties](https://github.com/KyleGospo/rom-properties)
-2. 🔒 Closed issue [#584](https://github.com/ublue-os/bazzite/issues/584) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#587](https://github.com/ublue-os/bazzite/pull/587) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#704](https://github.com/ublue-os/bazzite/issues/704#issuecomment-1909448352) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#704](https://github.com/ublue-os/bazzite/issues/704#issuecomment-1909443426) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#712](https://github.com/ublue-os/bazzite/issues/712#issuecomment-1912345867) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🔒 Closed issue [#713](https://github.com/ublue-os/bazzite/issues/713) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#713](https://github.com/ublue-os/bazzite/issues/713#issuecomment-1912345084) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🎉 Merged PR [#35](https://github.com/KyleGospo/rom-properties/pull/35) in [KyleGospo/rom-properties](https://github.com/KyleGospo/rom-properties)
+5. 🔒 Closed issue [#584](https://github.com/ublue-os/bazzite/issues/584) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
