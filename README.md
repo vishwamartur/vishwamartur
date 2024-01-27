@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/ublue-os/akmods/pull/117) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-2. 💪 Opened PR [#839](https://github.com/ublue-os/bluefin/pull/839) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 💪 Opened PR [#2](https://github.com/noelmiller/isengard/pull/2) in [noelmiller/isengard](https://github.com/noelmiller/isengard)
-4. 💪 Opened PR [#1](https://github.com/noelmiller/isengard/pull/1) in [noelmiller/isengard](https://github.com/noelmiller/isengard)
-5. 🗣 Commented on [#790](https://github.com/ublue-os/bluefin/pull/790#issuecomment-1912896592) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🎉 Merged PR [#117](https://github.com/ublue-os/akmods/pull/117) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+2. 💪 Opened PR [#117](https://github.com/ublue-os/akmods/pull/117) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+3. 💪 Opened PR [#839](https://github.com/ublue-os/bluefin/pull/839) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 💪 Opened PR [#2](https://github.com/noelmiller/isengard/pull/2) in [noelmiller/isengard](https://github.com/noelmiller/isengard)
+5. 💪 Opened PR [#1](https://github.com/noelmiller/isengard/pull/1) in [noelmiller/isengard](https://github.com/noelmiller/isengard)
 <!--END_SECTION:activity-->
