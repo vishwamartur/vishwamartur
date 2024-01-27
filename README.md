@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com/ublue-os/akmods/pull/118) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-2. 🎉 Merged PR [#117](https://github.com/ublue-os/akmods/pull/117) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-3. 💪 Opened PR [#117](https://github.com/ublue-os/akmods/pull/117) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-4. 💪 Opened PR [#839](https://github.com/ublue-os/bluefin/pull/839) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 💪 Opened PR [#2](https://github.com/noelmiller/isengard/pull/2) in [noelmiller/isengard](https://github.com/noelmiller/isengard)
+1. 🎉 Merged PR [#118](https://github.com/ublue-os/akmods/pull/118) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+2. 💪 Opened PR [#118](https://github.com/ublue-os/akmods/pull/118) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+3. 🎉 Merged PR [#117](https://github.com/ublue-os/akmods/pull/117) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+4. 💪 Opened PR [#117](https://github.com/ublue-os/akmods/pull/117) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+5. 💪 Opened PR [#839](https://github.com/ublue-os/bluefin/pull/839) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
