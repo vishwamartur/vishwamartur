@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#829](https://github.com/ublue-os/bluefin/issues/829) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 🎉 Merged PR [#837](https://github.com/ublue-os/bluefin/pull/837) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 💪 Opened PR [#837](https://github.com/ublue-os/bluefin/pull/837) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 💪 Opened PR [#836](https://github.com/ublue-os/bluefin/pull/836) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 💪 Opened PR [#835](https://github.com/ublue-os/bluefin/pull/835) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🗣 Commented on [#790](https://github.com/ublue-os/bluefin/pull/790#issuecomment-1912896592) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+2. 🔒 Closed issue [#829](https://github.com/ublue-os/bluefin/issues/829) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+3. 🎉 Merged PR [#837](https://github.com/ublue-os/bluefin/pull/837) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 💪 Opened PR [#837](https://github.com/ublue-os/bluefin/pull/837) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 💪 Opened PR [#836](https://github.com/ublue-os/bluefin/pull/836) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
