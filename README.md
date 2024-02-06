@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#734](https://github.com/ublue-os/bazzite/pull/734) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#6](https://github.com/nicknamenamenick/bazzite-nickname/pull/6) in [nicknamenamenick/bazzite-nickname](https://github.com/nicknamenamenick/bazzite-nickname)
-3. 🔒 Closed issue [#735](https://github.com/ublue-os/bazzite/issues/735) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#744](https://github.com/ublue-os/bazzite/issues/744#issuecomment-1926315220) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#735](https://github.com/ublue-os/bazzite/issues/735#issuecomment-1926266431) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#745](https://github.com/ublue-os/bazzite/issues/745#issuecomment-1928582695) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#734](https://github.com/ublue-os/bazzite/pull/734) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#6](https://github.com/nicknamenamenick/bazzite-nickname/pull/6) in [nicknamenamenick/bazzite-nickname](https://github.com/nicknamenamenick/bazzite-nickname)
+4. 🔒 Closed issue [#735](https://github.com/ublue-os/bazzite/issues/735) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#744](https://github.com/ublue-os/bazzite/issues/744#issuecomment-1926315220) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
