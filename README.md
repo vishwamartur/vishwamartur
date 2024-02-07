@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#877](https://github.com/ublue-os/bluefin/pull/877) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-2. 💪 Opened PR [#877](https://github.com/ublue-os/bluefin/pull/877) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 🗣 Commented on [#116](https://github.com/0neGal/viper/pull/116#issuecomment-1928923966) in [0neGal/viper](https://github.com/0neGal/viper)
-4. ❌ Closed PR [#192](https://github.com/ublue-os/nvidia/pull/192) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
-5. 💪 Opened PR [#192](https://github.com/ublue-os/nvidia/pull/192) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+1. 🎉 Merged PR [#750](https://github.com/ublue-os/bazzite/pull/750) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#876](https://github.com/ublue-os/bluefin/issues/876#issuecomment-1931240952) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+3. 🎉 Merged PR [#877](https://github.com/ublue-os/bluefin/pull/877) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+4. 💪 Opened PR [#877](https://github.com/ublue-os/bluefin/pull/877) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 🗣 Commented on [#116](https://github.com/0neGal/viper/pull/116#issuecomment-1928923966) in [0neGal/viper](https://github.com/0neGal/viper)
 <!--END_SECTION:activity-->
