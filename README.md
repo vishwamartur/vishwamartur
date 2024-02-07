@@ -12,6 +12,10 @@ Web Devloper
 * 🧠  I'm learning React JS and Typescript
 * 🤝  I'm open to collaborating on Open Source Projects
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=vishwamartur&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
+
 ### Skills
 
 
