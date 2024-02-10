@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/ChimeraOS/gamescope/pull/8) in [ChimeraOS/gamescope](https://github.com/ChimeraOS/gamescope)
-2. 💪 Opened PR [#7](https://github.com/ChimeraOS/gamescope/pull/7) in [ChimeraOS/gamescope](https://github.com/ChimeraOS/gamescope)
-3. 🎉 Merged PR [#2](https://github.com/KyleGospo/ayaneo-platform/pull/2) in [KyleGospo/ayaneo-platform](https://github.com/KyleGospo/ayaneo-platform)
-4. 🎉 Merged PR [#755](https://github.com/ublue-os/bazzite/pull/755) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#755](https://github.com/ublue-os/bazzite/pull/755#issuecomment-1936673847) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#78](https://github.com/ChimeraOS/gamescope-session/pull/78#issuecomment-1937094621) in [ChimeraOS/gamescope-session](https://github.com/ChimeraOS/gamescope-session)
+2. ❌ Closed PR [#78](https://github.com/ChimeraOS/gamescope-session/pull/78) in [ChimeraOS/gamescope-session](https://github.com/ChimeraOS/gamescope-session)
+3. 💪 Opened PR [#78](https://github.com/ChimeraOS/gamescope-session/pull/78) in [ChimeraOS/gamescope-session](https://github.com/ChimeraOS/gamescope-session)
+4. 💪 Opened PR [#8](https://github.com/ChimeraOS/gamescope/pull/8) in [ChimeraOS/gamescope](https://github.com/ChimeraOS/gamescope)
+5. 💪 Opened PR [#7](https://github.com/ChimeraOS/gamescope/pull/7) in [ChimeraOS/gamescope](https://github.com/ChimeraOS/gamescope)
 <!--END_SECTION:activity-->
