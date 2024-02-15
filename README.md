@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#757](https://github.com/ublue-os/bazzite/issues/757#issuecomment-1944233075) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🗣 Commented on [#736](https://github.com/ublue-os/bazzite/issues/736#issuecomment-1944179724) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#752](https://github.com/ublue-os/bazzite/issues/752#issuecomment-1943315164) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#764](https://github.com/ublue-os/bazzite/issues/764#issuecomment-1942958705) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#769](https://github.com/ublue-os/bazzite/issues/769#issuecomment-1942958086) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🚀 Published release [v3](https://github.com/ublue-os/buildah-build/releases/tag/v3) in [ublue-os/buildah-build](https://github.com/ublue-os/buildah-build)
+2. ❌ Closed PR [#2](https://github.com/ublue-os/buildah-build/pull/2) in [ublue-os/buildah-build](https://github.com/ublue-os/buildah-build)
+3. 💪 Opened PR [#2](https://github.com/ublue-os/buildah-build/pull/2) in [ublue-os/buildah-build](https://github.com/ublue-os/buildah-build)
+4. 🎉 Merged PR [#1](https://github.com/ublue-os/buildah-build/pull/1) in [ublue-os/buildah-build](https://github.com/ublue-os/buildah-build)
+5. 🗣 Commented on [#757](https://github.com/ublue-os/bazzite/issues/757#issuecomment-1944233075) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
