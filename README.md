@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#779](https://github.com/ublue-os/bazzite/issues/779#issuecomment-1949476370) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🗣 Commented on [#779](https://github.com/ublue-os/bazzite/issues/779#issuecomment-1949473289) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🔒 Closed issue [#779](https://github.com/ublue-os/bazzite/issues/779) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#779](https://github.com/ublue-os/bazzite/issues/779#issuecomment-1949467917) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🗣 Commented on [#745](https://github.com/ublue-os/bazzite/issues/745#issuecomment-1949437367) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. ❌ Closed PR [#63](https://github.com/KyleGospo/gamescope-session/pull/63) in [KyleGospo/gamescope-session](https://github.com/KyleGospo/gamescope-session)
+2. 💪 Opened PR [#63](https://github.com/KyleGospo/gamescope-session/pull/63) in [KyleGospo/gamescope-session](https://github.com/KyleGospo/gamescope-session)
+3. 🗣 Commented on [#66](https://github.com/ChimeraOS/gamescope-session/pull/66#issuecomment-1950270701) in [ChimeraOS/gamescope-session](https://github.com/ChimeraOS/gamescope-session)
+4. 🗣 Commented on [#779](https://github.com/ublue-os/bazzite/issues/779#issuecomment-1949476370) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#779](https://github.com/ublue-os/bazzite/issues/779#issuecomment-1949473289) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
