@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#781](https://github.com/ublue-os/bazzite/pull/781#issuecomment-1950961831) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🎉 Merged PR [#781](https://github.com/ublue-os/bazzite/pull/781) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🎉 Merged PR [#12](https://github.com/KyleGospo/nautilus-open-any-terminal/pull/12) in [KyleGospo/nautilus-open-any-terminal](https://github.com/KyleGospo/nautilus-open-any-terminal)
-4. 💪 Opened PR [#131](https://github.com/Stunkymonkey/nautilus-open-any-terminal/pull/131) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
-5. 💪 Opened PR [#916](https://github.com/ublue-os/bluefin/pull/916) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🎉 Merged PR [#782](https://github.com/ublue-os/bazzite/pull/782) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#781](https://github.com/ublue-os/bazzite/pull/781#issuecomment-1950961831) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#781](https://github.com/ublue-os/bazzite/pull/781) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🎉 Merged PR [#12](https://github.com/KyleGospo/nautilus-open-any-terminal/pull/12) in [KyleGospo/nautilus-open-any-terminal](https://github.com/KyleGospo/nautilus-open-any-terminal)
+5. 💪 Opened PR [#131](https://github.com/Stunkymonkey/nautilus-open-any-terminal/pull/131) in [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal)
 <!--END_SECTION:activity-->
