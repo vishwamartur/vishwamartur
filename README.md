@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/castrojo/bluefin-website/pull/12) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
-2. 💪 Opened PR [#12](https://github.com/castrojo/bluefin-website/pull/12) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
-3. 💪 Opened PR [#11](https://github.com/castrojo/bluefin-website/pull/11) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
-4. 🎉 Merged PR [#10](https://github.com/castrojo/bluefin-website/pull/10) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
-5. 💪 Opened PR [#10](https://github.com/castrojo/bluefin-website/pull/10) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
+1. ❌ Closed PR [#792](https://github.com/ublue-os/bazzite/pull/792) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#792](https://github.com/ublue-os/bazzite/pull/792#issuecomment-1958460335) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#12](https://github.com/castrojo/bluefin-website/pull/12) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
+4. 💪 Opened PR [#12](https://github.com/castrojo/bluefin-website/pull/12) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
+5. 💪 Opened PR [#11](https://github.com/castrojo/bluefin-website/pull/11) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
 <!--END_SECTION:activity-->
