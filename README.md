@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/Dvlv/BoxBuddyRS/pull/63) in [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS)
-2. 🎉 Merged PR [#797](https://github.com/ublue-os/bazzite/pull/797) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#765](https://github.com/ublue-os/bazzite/pull/765#issuecomment-1962006932) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#719](https://github.com/ublue-os/bazzite/issues/719#issuecomment-1961996711) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#794](https://github.com/ublue-os/bazzite/pull/794) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#105](https://github.com/ublue-os/ublue-update/pull/105) in [ublue-os/ublue-update](https://github.com/ublue-os/ublue-update)
+2. ❌ Closed PR [#104](https://github.com/ublue-os/ublue-update/pull/104) in [ublue-os/ublue-update](https://github.com/ublue-os/ublue-update)
+3. 💪 Opened PR [#63](https://github.com/Dvlv/BoxBuddyRS/pull/63) in [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS)
+4. 🎉 Merged PR [#797](https://github.com/ublue-os/bazzite/pull/797) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#765](https://github.com/ublue-os/bazzite/pull/765#issuecomment-1962006932) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
