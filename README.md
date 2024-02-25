@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#805](https://github.com/ublue-os/bazzite/pull/805#issuecomment-1962755503) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#33](https://github.com/ublue-os/isogenerator/pull/33) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
-3. 🎉 Merged PR [#803](https://github.com/ublue-os/bazzite/pull/803) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#109](https://github.com/ublue-os/bazzite/issues/109#issuecomment-1962299677) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🔒 Closed issue [#109](https://github.com/ublue-os/bazzite/issues/109) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#63](https://github.com/Dvlv/BoxBuddyRS/pull/63#issuecomment-1962766394) in [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS)
+2. 🗣 Commented on [#805](https://github.com/ublue-os/bazzite/pull/805#issuecomment-1962755503) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#33](https://github.com/ublue-os/isogenerator/pull/33) in [ublue-os/isogenerator](https://github.com/ublue-os/isogenerator)
+4. 🎉 Merged PR [#803](https://github.com/ublue-os/bazzite/pull/803) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#109](https://github.com/ublue-os/bazzite/issues/109#issuecomment-1962299677) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
