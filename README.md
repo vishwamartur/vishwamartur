@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#513](https://github.com/ublue-os/main/issues/513#issuecomment-1965690572) in [ublue-os/main](https://github.com/ublue-os/main)
-2. 💪 Opened PR [#952](https://github.com/ublue-os/bluefin/pull/952) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-3. 💪 Opened PR [#949](https://github.com/ublue-os/bluefin/pull/949) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🔒 Closed issue [#816](https://github.com/ublue-os/bazzite/issues/816) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 🎉 Merged PR [#817](https://github.com/ublue-os/bazzite/pull/817) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#819](https://github.com/ublue-os/bazzite/pull/819) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#819](https://github.com/ublue-os/bazzite/pull/819#issuecomment-1966048613) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#513](https://github.com/ublue-os/main/issues/513#issuecomment-1965690572) in [ublue-os/main](https://github.com/ublue-os/main)
+4. 💪 Opened PR [#952](https://github.com/ublue-os/bluefin/pull/952) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 💪 Opened PR [#949](https://github.com/ublue-os/bluefin/pull/949) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
