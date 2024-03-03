@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/ublue-os/config/issues/225#issuecomment-1974940377) in [ublue-os/config](https://github.com/ublue-os/config)
-2. 🔒 Closed issue [#842](https://github.com/ublue-os/bazzite/issues/842) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#842](https://github.com/ublue-os/bazzite/issues/842#issuecomment-1974939205) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🗣 Commented on [#517](https://github.com/ublue-os/main/issues/517#issuecomment-1974895804) in [ublue-os/main](https://github.com/ublue-os/main)
-5. 🗣 Commented on [#200](https://github.com/ublue-os/nvidia/issues/200#issuecomment-1974873609) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+1. 🎉 Merged PR [#19](https://github.com/castrojo/bluefin-website/pull/19) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
+2. 💪 Opened PR [#19](https://github.com/castrojo/bluefin-website/pull/19) in [castrojo/bluefin-website](https://github.com/castrojo/bluefin-website)
+3. 🗣 Commented on [#225](https://github.com/ublue-os/config/issues/225#issuecomment-1974940377) in [ublue-os/config](https://github.com/ublue-os/config)
+4. 🔒 Closed issue [#842](https://github.com/ublue-os/bazzite/issues/842) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#842](https://github.com/ublue-os/bazzite/issues/842#issuecomment-1974939205) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
