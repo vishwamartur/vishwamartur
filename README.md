@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#824](https://github.com/ublue-os/bazzite/issues/824#issuecomment-1975382616) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 💪 Opened PR [#201](https://github.com/ublue-os/nvidia/pull/201) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
-3. 🗣 Commented on [#999](https://github.com/ublue-os/bluefin/issues/999#issuecomment-1975276830) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-4. 🗣 Commented on [#999](https://github.com/ublue-os/bluefin/issues/999#issuecomment-1975275856) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 🗣 Commented on [#999](https://github.com/ublue-os/bluefin/issues/999#issuecomment-1975273309) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🗣 Commented on [#848](https://github.com/ublue-os/bazzite/issues/848#issuecomment-1975521552) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#824](https://github.com/ublue-os/bazzite/issues/824#issuecomment-1975382616) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 💪 Opened PR [#201](https://github.com/ublue-os/nvidia/pull/201) in [ublue-os/nvidia](https://github.com/ublue-os/nvidia)
+4. 🗣 Commented on [#999](https://github.com/ublue-os/bluefin/issues/999#issuecomment-1975276830) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+5. 🗣 Commented on [#999](https://github.com/ublue-os/bluefin/issues/999#issuecomment-1975275856) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
 <!--END_SECTION:activity-->
