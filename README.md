@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/ublue-os/bazzite/issues/864#issuecomment-1986948677) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-2. 🔒 Closed issue [#857](https://github.com/ublue-os/bazzite/issues/857) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#857](https://github.com/ublue-os/bazzite/issues/857#issuecomment-1985035865) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#854](https://github.com/ublue-os/bazzite/pull/854) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-5. 💪 Opened PR [#8](https://github.com/NiHaiden/aurora/pull/8) in [NiHaiden/aurora](https://github.com/NiHaiden/aurora)
+1. 🎉 Merged PR [#865](https://github.com/ublue-os/bazzite/pull/865) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#864](https://github.com/ublue-os/bazzite/issues/864#issuecomment-1986948677) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🔒 Closed issue [#857](https://github.com/ublue-os/bazzite/issues/857) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🗣 Commented on [#857](https://github.com/ublue-os/bazzite/issues/857#issuecomment-1985035865) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#854](https://github.com/ublue-os/bazzite/pull/854) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
