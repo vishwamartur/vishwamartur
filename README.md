@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#152](https://github.com/ublue-os/akmods/issues/152) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-2. 🔒 Closed issue [#9](https://github.com/ublue-os/universal-blue-org/issues/9) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
-3. 🎉 Merged PR [#8](https://github.com/ublue-os/universal-blue-org/pull/8) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
-4. 🎉 Merged PR [#150](https://github.com/ublue-os/akmods/pull/150) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-5. 🗣 Commented on [#583](https://github.com/ublue-os/bazzite/issues/583#issuecomment-2016887911) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🎉 Merged PR [#10](https://github.com/ublue-os/universal-blue-org/pull/10) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
+2. 🔒 Closed issue [#152](https://github.com/ublue-os/akmods/issues/152) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+3. 🔒 Closed issue [#9](https://github.com/ublue-os/universal-blue-org/issues/9) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
+4. 🎉 Merged PR [#8](https://github.com/ublue-os/universal-blue-org/pull/8) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
+5. 🎉 Merged PR [#150](https://github.com/ublue-os/akmods/pull/150) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
 <!--END_SECTION:activity-->
