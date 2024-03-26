@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ublue-os/universal-blue-org/pull/10) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
-2. 🔒 Closed issue [#152](https://github.com/ublue-os/akmods/issues/152) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
-3. 🔒 Closed issue [#9](https://github.com/ublue-os/universal-blue-org/issues/9) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
-4. 🎉 Merged PR [#8](https://github.com/ublue-os/universal-blue-org/pull/8) in [ublue-os/universal-blue-org](https://github.com/ublue-os/universal-blue-org)
-5. 🎉 Merged PR [#150](https://github.com/ublue-os/akmods/pull/150) in [ublue-os/akmods](https://github.com/ublue-os/akmods)
+1. 🗣 Commented on [#910](https://github.com/ublue-os/bazzite/issues/910#issuecomment-2019207172) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🗣 Commented on [#913](https://github.com/ublue-os/bazzite/issues/913#issuecomment-2019203099) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🗣 Commented on [#914](https://github.com/ublue-os/bazzite/issues/914#issuecomment-2019202650) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🗣 Commented on [#915](https://github.com/ublue-os/bazzite/issues/915#issuecomment-2019202336) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🔒 Closed issue [#915](https://github.com/ublue-os/bazzite/issues/915) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
