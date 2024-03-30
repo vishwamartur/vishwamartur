@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KyleGospo/bazzite.gg/pull/1) in [KyleGospo/bazzite.gg](https://github.com/KyleGospo/bazzite.gg)
-2. 🔒 Closed issue [#926](https://github.com/ublue-os/bazzite/issues/926) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🗣 Commented on [#926](https://github.com/ublue-os/bazzite/issues/926#issuecomment-2027899302) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#1073](https://github.com/ublue-os/bluefin/pull/1073) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
-5. 🗣 Commented on [#1073](https://github.com/ublue-os/bluefin/pull/1073#issuecomment-2027870639) in [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
+1. 🗣 Commented on [#929](https://github.com/ublue-os/bazzite/issues/929#issuecomment-2028485559) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🔒 Closed issue [#929](https://github.com/ublue-os/bazzite/issues/929) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+3. 🎉 Merged PR [#1](https://github.com/KyleGospo/bazzite.gg/pull/1) in [KyleGospo/bazzite.gg](https://github.com/KyleGospo/bazzite.gg)
+4. 🔒 Closed issue [#926](https://github.com/ublue-os/bazzite/issues/926) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🗣 Commented on [#926](https://github.com/ublue-os/bazzite/issues/926#issuecomment-2027899302) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
 <!--END_SECTION:activity-->
