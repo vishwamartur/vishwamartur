@@ -3,9 +3,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KyleGospo/xdg-utils-distrobox-arch/pull/1) in [KyleGospo/xdg-utils-distrobox-arch](https://github.com/KyleGospo/xdg-utils-distrobox-arch)
-2. 🗣 Commented on [#929](https://github.com/ublue-os/bazzite/issues/929#issuecomment-2028485559) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-3. 🔒 Closed issue [#929](https://github.com/ublue-os/bazzite/issues/929) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
-4. 🎉 Merged PR [#1](https://github.com/KyleGospo/bazzite.gg/pull/1) in [KyleGospo/bazzite.gg](https://github.com/KyleGospo/bazzite.gg)
-5. 🔒 Closed issue [#926](https://github.com/ublue-os/bazzite/issues/926) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. 🗣 Commented on [#930](https://github.com/ublue-os/bazzite/issues/930#issuecomment-2028561341) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. 🎉 Merged PR [#1](https://github.com/KyleGospo/xdg-utils-distrobox-arch/pull/1) in [KyleGospo/xdg-utils-distrobox-arch](https://github.com/KyleGospo/xdg-utils-distrobox-arch)
+3. 🗣 Commented on [#929](https://github.com/ublue-os/bazzite/issues/929#issuecomment-2028485559) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+4. 🔒 Closed issue [#929](https://github.com/ublue-os/bazzite/issues/929) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+5. 🎉 Merged PR [#1](https://github.com/KyleGospo/bazzite.gg/pull/1) in [KyleGospo/bazzite.gg](https://github.com/KyleGospo/bazzite.gg)
 <!--END_SECTION:activity-->
