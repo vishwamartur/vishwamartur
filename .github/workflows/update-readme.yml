@@ -34,6 +34,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: base, repositories
           plugin_repositories: yes
-          plugin_repositories_featured: SteamDeckHomebrew/decky-loader
+          plugin_repositories_featured: ublue-os/bazzite
           plugin_repositories_affiliations: owner, collaborator
           
