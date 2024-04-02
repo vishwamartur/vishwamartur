@@ -31,7 +31,6 @@ jobs:
           plugin_repositories_featured: ublue-os/bazzite, KyleGospo/City-17-Episode-One-Source
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
-          plugin_sponsors: yes
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_UID }}
