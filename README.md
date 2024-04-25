@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Working On DataCenter & FPGA
 ------------
 
-👋 Hi, I’m a Product Engineer. 🌐 👩‍💻 I have experience in Intel Agliex and Xeon scalablelatest technologies and best practices. 💯 🌱 I’m currently learning more about cloud computing, artificial intelligence. ☁️ 👯 I’m looking to collaborate on any exciting and challenging projects that can make a positive impact on the world. 🌎 😄 I’m passionate about coding, learning, and sharing my knowledge with others. 📚 🔭 Fun fact: I’m also a fan of astronomy and sci-fi movies. 🌠
+👋 Hi, I’m a Product Engineer. 🌐 👩‍💻 I have experience in Intel Agliex and Xeon scalable Processors latest technologies and best practices. 💯 🌱 I’m currently learning more about cloud computing, artificial intelligence. ☁️ 👯 I’m looking to collaborate on any exciting and challenging projects that can make a positive impact on the world. 🌎 😄 I’m passionate about coding, learning, and sharing my knowledge with others. 📚 🔭 Fun fact: I’m also a fan of astronomy and sci-fi movies. 🌠
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [vishwamartur@gmail.com](mailto:vishwamartur@gmail.com)
