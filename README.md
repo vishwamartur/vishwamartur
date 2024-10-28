@@ -23,7 +23,7 @@ Bengaluru, Karnataka, India | vishwamartur@gmail.com | [LinkedIn](https://www.li
 - **Development Tools & Processes**: Proficient in Git, SVN, and JIRA, with a solid foundation in Agile/Scrum methodologies to support high-quality, collaborative development.
 
 ### Professional Experience
-**Product Engineer, Harman Connected Services** (July 2022 - Present)
+**Product Engineer, Harman Connected Services** (Jan 2022 - Present)
 - Led the deployment of a BIOS firmware update for Willow Ridge, achieving a 15% reduction in boot time
 - Developed a Python and Bash-based test automation framework for BIOS flashing, increasing test coverage to 90% and reducing regression testing time by 20%
 - Designed FPGA-based data processing solutions that improved performance by 30%, recognized for technical innovation and project impact
