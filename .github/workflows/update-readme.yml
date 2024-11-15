@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: vishwamartur/metrics@latest
+      - uses: lowlighter/metrics:master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: India/Kolkata
