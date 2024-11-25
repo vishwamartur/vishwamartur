@@ -31,3 +31,7 @@ jobs:
           plugin_repositories_affiliations: owner, collaborator
           plugin_licenses: yes
           plugin_achievements: yes
+          plugin_theme: yes
+          plugin_theme_name: latest
+          plugin_design: yes
+          plugin_design_name: latest
