@@ -1,1 +1,61 @@
 ![Metrics](/github-metrics.svg)
+
+## Valid Inputs
+
+The following inputs are recognized as valid:
+
+- base
+- base_indepth
+- base_hireable
+- base_skip
+- repositories
+- repositories_batch
+- repositories_forks
+- repositories_affiliations
+- repositories_skipped
+- users_ignored
+- commits_authoring
+- token
+- user
+- repo
+- committer_token
+- committer_branch
+- committer_message
+- committer_gist
+- filename
+- markdown
+- markdown_cache
+- output_action
+- output_condition
+- optimize
+- setup_community_templates
+- template
+- query
+- extras_css
+- extras_js
+- github_api_rest
+- github_api_graphql
+- config_timezone
+- config_order
+- config_twemoji
+- config_gemoji
+- config_octicon
+- config_display
+- config_animations
+- config_base64
+- config_padding
+- config_output
+- config_presets
+- retries
+- retries_delay
+- retries_output_action
+- retries_delay_output_action
+- clean_workflows
+- delay
+- quota_required_rest
+- quota_required_graphql
+- quota_required_search
+- plugin_theme
+- plugin_theme_name
+- plugin_design
+- plugin_design_name
