@@ -37,3 +37,13 @@ jobs:
           plugin_achievements_threshold: C
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
+      - name: Check for errors in achievements plugin configuration
+        run: |
+          if ! grep -q "plugin_achievements" .github/workflows/update-readme.yml; then
+            echo "Error: Achievements plugin configuration not found."
+            exit 1
+          fi
+      - name: Log achievements plugin output
+        run: |
+          echo "Logging achievements plugin output for debugging purposes."
+          cat github-metrics.svg
