@@ -1,3 +1,6 @@
+Hi there! I am a hobby coder 👋
+
+
 ![Metrics](/github-metrics.svg)
 
 https://paypal.me/VMartur
